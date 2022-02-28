@@ -1,0 +1,976 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A synopsis, or, Short view of essential Christianity in part, in which the first fruits unto God, (or saints) in the Apostles dayes lived. : According to the  doctrine of Christ ... : With some explications or enlargements thereupon. : Tending to the edification, comfort, and refreshing of all sorts of people ... / By William Tomlinson ...</title>
+            <author>Tomlinson, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94749</idno>
+            <idno type="STC">Wing T1853</idno>
+            <idno type="STC">ESTC R185375</idno>
+            <idno type="EEBO-CITATION">45789434</idno>
+            <idno type="OCLC">ocm 45789434</idno>
+            <idno type="VID">172744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172744)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2647:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A synopsis, or, Short view of essential Christianity in part, in which the first fruits unto God, (or saints) in the Apostles dayes lived. : According to the  doctrine of Christ ... : With some explications or enlargements thereupon. : Tending to the edification, comfort, and refreshing of all sorts of people ... / By William Tomlinson ...</title>
+                  <author>Tomlinson, William.</author>
+               </titleStmt>
+               <extent>107 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Harris, at the Stationers Armes, under the piazza of the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tight binding with some loss of print.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172744:1" rendition="simple:additions"/>
+            <p>A SYNOPSIS, Or ſhort view of ESSENTIAL CHRISTIANITY In Part, <hi>In which the firſt Fruits unto God, (or Saints) in the Apoſtles dayes lived. According to the Doctrine of Chriſt, and his Holy Apoſtles, beginning at the very foundation thereof.</hi>
+            </p>
+            <p>With ſome <hi>Explications</hi> or <hi>En<g ref="char:EOLhyphen"/>largements</hi> thereupon.</p>
+            <p>Tending to the Edification, Comfort, and refreſhing of all ſorts of People that fear God, and love Righteouſneſs, without reſpect to any one particular Form; and yet not excluding all Form: And which may tend alſo to the encouraging of others that as yet regard not God, to turne to him in Submiſſion, and the obe<g ref="char:EOLhyphen"/>dience of Faith.</p>
+            <p>By WILLIAM TOMLINSON.</p>
+            <p>
+               <hi>A lover of all that are of a humble Heart, and that live the life of Righteouſneſs, in whatſoever form they are.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>B. Harris,</hi> at the Stationers Armes, under the Piazza of the Royal Exchange. 1684.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:172744:2" rendition="simple:additions"/>
+            <pb facs="tcp:172744:2" rendition="simple:additions"/>
+            <head>The Explayning of the Title.</head>
+            <p>
+               <hi>I</hi> Call that <hi>Eſſential Chriſtianity</hi> in which the Heart is truely turned from ſin to God: In which ſtate there be various degrees. <hi>Some</hi> are but as <hi>ſmok<g ref="char:EOLhyphen"/>ing Flax,</hi> where no flame of righteouſ<g ref="char:EOLhyphen"/>neſs as yet appears, yet have they a love to Righteouſneſs, and to God, theſe our Lord will not quench. <hi>Others</hi> are as <hi>bruiſed Reeds,</hi> wounded and brui<g ref="char:EOLhyphen"/>ſed and bowed down under their tranſ<g ref="char:EOLhyphen"/>greſſion, and therefore are poor in Spi<g ref="char:EOLhyphen"/>rit, mourning under the body of Sin which they are made ſenſible of; and hungring and thirſting after Righteouſ<g ref="char:EOLhyphen"/>neſs, which their Hearts long after: theſe holding on ſhall be filled. <hi>Some</hi> are not farr from the Kingdom of God but near it: <hi>Others</hi> are in the King<g ref="char:EOLhyphen"/>dom, which conſiſts i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Righteouſneſs, and peace, and joy in the Holy Spirit, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Holy Ghoſt; who have received the Spirit of Adoption, and are in the Son<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hip, walking in fellowſhip with the Father and the Son: and in all theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tates there be various degrees alſo. Now I call that <hi>eſſential</hi> in which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe have their life, to diſtinguiſh<g ref="char:punc">▪</g>
+               <pb facs="tcp:172744:3"/> from that which is outward and cir<g ref="char:EOLunhyphen"/>cumſtantial, and may be taken up b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe that love wickedneſs, and hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Spirit of enmity in them againſt tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holines.</p>
+            <p>For there is no Form of Godlineſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Religion, but a wicked man, and lover of unrighteouſneſs may take it u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that as well now, as under the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>niſtration of the Law, or as in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Apoſtles dayes, when ſome had a for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Godlineſs and yet denyed the Pow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thereof.</p>
+            <p>But take notice, that I doe not c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> theſe things contained in this Book <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſential</hi> in oppoſition to all things th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are outward or circumſtantial; but diſtinction from thoſe things that wicked man may take upon him: whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> things nevertheleſs may in due place<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> obſerved by the truly righteous. The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Title needs no explication. N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what is here offered is but in part: <hi>we know but in part, and Prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cy but in part;</hi> and he in whom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fullneſs dwells, gives out of his full<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as it pleaſeth him, to whom be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Glory of all his gifts.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:172744:3" rendition="simple:additions"/>
+            <head>A SYNOPSIS Or ſhort view of ESSENTIAL CHRISTIANITY, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1. GOD ſo loved the World, that he gave his only be<g ref="char:EOLhyphen"/>gotten Son, that whoſoever be<g ref="char:EOLhyphen"/>lieveth in him ſhould not periſh but ſhould have eternal life. For God ſent not his Son into the World to condemn the World: but that the World through him might be ſaved. <hi>Joh.</hi> 3.16, 17.</p>
+            <p n="2">2. <hi>The Son of God, Chriſt Jeſus our Lord, ſo loved the World alſo, that he gave up himſelf a Sacrifice for our Sinnes (according to the good will of God) thereby to make attone<g ref="char:EOLhyphen"/>ment for us, and to reconcile us to God.</hi> He bare our Sins in his own body on the Tree. 1 <hi>Pet.</hi> 2.24. <hi>Thus the love of God is manifeſted and the love of the Son of God,
+<pb facs="tcp:172744:4"/>
+                  <pb facs="tcp:172744:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:172744:5" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:172744:6"/> Chriſt Jeſus our Lord.</hi>
+            </p>
+            <p n="3">3. He whoſe underſtanding an Heart is rightly opened to be<g ref="char:EOLunhyphen"/>lieve this love of God in Chriſt he receives it. He receives th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> joyfull tydings, or Goſpel: H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> receives the Teſtimony of Chriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſets to his Seal that God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true; yea he receives Chriſt him<g ref="char:EOLunhyphen"/>ſelf, and with him power to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>come a Son of God. <hi>Joh.</hi> 1.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> He ſhall receive remiſſion of Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Act.</hi> 10.43. He ſhall be made pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>taker of the Holy Spirit. <hi>Ro.</hi> 8.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gal.</hi> 3.2. And ſuch a faith as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the right Evangelical faith.</p>
+            <p n="4">4. <hi>This true Faith in Chriſt Jeſus or Evangelical faith, wherein the things are received, hath alſo the Fruits and concomitants atte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ding it.</hi>
+            </p>
+            <p n="1">1. <hi>It brings Peace and conſolatio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or rejoycing.</hi>
+            </p>
+            <p n="2">2. <hi>It works by love.</hi>
+            </p>
+            <p n="3">3. <hi>It purifyes the Heart, turni<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it from unrighteouſneſs, and teache<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to deny ungodlineſs and Worldly luſts
+<pb n="7" facs="tcp:172744:6"/> and to live righteouſly and ſoberly and Godly in this preſent World.</hi>
+            </p>
+            <p n="4">4. <hi>It excludes boaſting, and exal<g ref="char:EOLhyphen"/>tation of our ſelves.</hi>
+            </p>
+            <p n="5">5. <hi>It drawes the Heart after Chriſt, after Sanctification, and after Hea<g ref="char:EOLhyphen"/>venly treaſures, and fellowſhip with God.</hi>
+            </p>
+            <p n="6">6. <hi>It is accompanyed with an</hi> Un<g ref="char:EOLhyphen"/>ction <hi>from the Holy one, which in<g ref="char:EOLhyphen"/>lightens the underſtanding, and in<g ref="char:EOLhyphen"/>clines the Heart to good, and gives a ſenſe or feeling of the will of God, and being kept to, it leadeth into all truth, and is a continual teacher.</hi> And this is the new Covenant, not written in Tables of Stone <hi>(as the firſt was)</hi> but in the Fleſhly Tables of the heart; 2 <hi>Cor.</hi> 3.3.</p>
+            <p n="7">7. This true Goſpel faith begets Hope: <hi>that is, it raiſes the heart in<g ref="char:EOLhyphen"/>to an expectation of good things to come, and ſo bears up the head under all the afflictions and tribulations which it meets with all in this life. For if in this life only we had hope, we were of all men moſt miſerable, And ſo it
+<pb n="8" facs="tcp:172744:7"/> hath a ſecret dependency upon the righ<g ref="char:EOLhyphen"/>teous judgment of God at the laſt day<g ref="char:punc">▪</g> when he ſhall bring everything to light and render to every one according <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their deeds done in the body.</hi>
+            </p>
+            <p>This ſhort view of Chriſtiani<g ref="char:EOLhyphen"/>ty is comprehended un<g ref="char:EOLhyphen"/>der theſe 4 heads:</p>
+            <p n="1">1. <hi>The Love of God to man.</hi>
+            </p>
+            <p n="2">2. <hi>The Love of Chriſt Jeſus ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord, the Firſt-borne of every Crea<g ref="char:EOLhyphen"/>ture; and the expreſſe image of the in<g ref="char:EOLhyphen"/>viſible God.</hi>
+            </p>
+            <p n="3">3. <hi>The Goſpel Faith, which re<g ref="char:EOLunhyphen"/>cei es Love of God in Chriſt Jeſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Lord.</hi>
+            </p>
+            <p n="4">4. <hi>The Fruits of this faith, where<g ref="char:EOLunhyphen"/>by it is known, and diſtinguiſhed from all falſe faiths.</hi>
+            </p>
+            <p>Of all which a little more at large by way of Explication as they ſhall be opened to mee.</p>
+            <div type="part">
+               <pb n="9" facs="tcp:172744:7"/>
+               <head>Explication.</head>
+               <p n="1">1. <hi>GOD ſo loved the World that he gave his only be<g ref="char:EOLhyphen"/>gotten Son, that whoſoe<g ref="char:EOLhyphen"/>ver believeth in him, ſhould not pe<g ref="char:EOLhyphen"/>riſh, but have everlaſting life.</hi> Joh. 3.16. <hi>For God ſent him not into the World to condemn the World, but that the World through him might be ſaved.</hi> ver. 17. Here's the Fountaine, or rather Ocean from whence all good doth come: even from the Love of God, or from God who is love, yea an unfathomable Ocean of love: Therefore the beloved Diſciple who leaned on the boſom of our Lord, deſcribes him thus, <hi>God is Love: and he that dwelleth in love, dwelleth in God, and God in him.</hi> 1 <hi>Joh.</hi> 4.16. And this love is an ex<g ref="char:EOLhyphen"/>tenſive love, reaching to all: there<g ref="char:EOLhyphen"/>fore ſaith he, <hi>God ſo loved the World,</hi> he ſaith not, God ſo loved this or that Nation, or this or that ſort of men, but <hi>God ſo loved the World,
+<pb n="10" facs="tcp:172744:8"/> that he gave his only begotten Son.</hi> A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sun in the Firmament ſhine<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon all good and bad, and as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> raine falls upon all both juſt and un<g ref="char:EOLhyphen"/>juſt; ſo the love of God reaches t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all in ſending his Son. Therefor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Angel that brought the glad ty<g ref="char:EOLhyphen"/>dings of the birth of Chriſt to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sheepherds, ſaid to them, <hi>Fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not, for behold I bring you good ty<g ref="char:EOLunhyphen"/>dings of great joy which ſhall be to a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> People Luk.</hi> 2.10. And likewiſe tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> multitude of the Heavenly Hoſt which appeared ſuddenly with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Angel praiſed God, ſaying, <hi>Glor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to God in the higheſt, and on Ear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> peace, good will towards men, ver.</hi> 1 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> towards men, or towards ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kinde in the general, and not onl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> towards this Sect or that Sect: o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this form or that form but toward<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all men: namely that creatur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which was made in his own imag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to bear a repreſentation of him i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Creation. To this creature <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the love of God thus ſignified fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his reſtoration to that purity, Ma<g ref="char:EOLunhyphen"/>jeſty
+<pb n="11" facs="tcp:172744:8"/> and dignity in which he was created, and to an eternal felicity in that ſtation, with God.</p>
+               <p>So then, <hi>This is the condemnation, that light is come into the World, and men love darkneſs rather then light be<g ref="char:EOLhyphen"/>cauſe their deeds are evill, Joh.</hi> 3.19. What light is this thats come into the World, that was not in the World before? Verely the light of the love of God; or of Salvation freely by grace, which hath a glo<g ref="char:EOLhyphen"/>ry in it, that diſcovers and de<g ref="char:EOLhyphen"/>ſtroyes evill works: and therefore where men love their evil works, they love to cleave to the darkneſs in which they may enjoy their evil deeds, and continue therein. This is the condemnation, <hi>not becauſe they have done evil, but becauſe they chuſe to continue therein.</hi> For the love of God hath manifeſted it ſelf unto all in ſending his Son as a Sacrifice for all, <hi>a Lamb without blemiſh to take away the Sin of the World, Joh.</hi> 1. <hi>ver.</hi> 29.</p>
+               <p n="2">2. As the Father hath manifeſted
+<pb n="12" facs="tcp:172744:9"/> his love to man; ſo the Son like<g ref="char:EOLhyphen"/>wiſe, who is the only begotten Son of God, the firſt born of every creature, and the expreſſe image of the Father, he hath ſhined forth in the glory of the ſame love: <hi>We beheld his glory</hi> (ſaith the Apoſtle, wherein? Even in this that he was) <hi>full of grace, and full of truth.</hi> Grace is free gift, bounty, good will and this is glorious, <hi>this we beheld in the Son of God,</hi> ſaith the Apoſtle <hi>What love like this? Or what favour like this? To lay down ones life for another. This our Lord hath done for us.</hi> 1 <hi>Tim.</hi> 2.6. <hi>He gave himſelf <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ranſome for all</hi> (ſaith the Apoſtle and this is to be a Teſtimony i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> due time for ſo the words ſignify <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>He offered up himſelf a Sacrifice for us according to the will of God, that h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> might put away our ſin, by the Sacri<g ref="char:EOLunhyphen"/>fice of himſelf. Heb.</hi> 9.26. and tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was the will of God, <hi>who layed o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him the iniquity of us all.</hi> And this h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> willingly underwent for us: fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:172744:9"/> when burnt offerings and Sacrifices of the Law for ſin could not purge the conſcience ſo as to make the commers thereunto perfect as per<g ref="char:EOLhyphen"/>taining to the conſcience, (and therefore God took no pleaſure in them,) then ſaid the Son, <hi>Loe I come to doe thy will O God, Heb.</hi> 10. That ſo a way might be made for reconciling our Hearts to God, by laying a ground for faith in us. <hi>He bare our ſins in his own body on the Tree.</hi> 1 <hi>Pet.</hi> 2.24. Here's the ground for faith; and a foundation layd for mans returning towards the Lord in Love: for we cannot love him till we be made ſenſible of his love to us, and underſtand that he loveth us. And when this under<g ref="char:EOLhyphen"/>ſtanding and beliefe ariſes in our Hearts, it drawes our Hearts to him in love again. <hi>We love him be<g ref="char:EOLhyphen"/>cauſe he firſt loved us,</hi> ſaith the be<g ref="char:EOLhyphen"/>loved Diſciple. 1 <hi>Joh.</hi> 4.19. <hi>He loved us and waſhed us from our ſins in his own blood. Rev.</hi> 1.5. His love goes before our waſhing: <hi>He loved
+<pb n="14" facs="tcp:172744:10"/> us and waſhed us. I ſaid unto the when thou waſt in thy blood live Ezek.</hi> 16.6.</p>
+               <p>He that hath his Heart opene<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to believe this Teſtimony of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Love of God in Chriſt Jeſus ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord, he ſhall finde the incomes o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Spirit of Chriſt in ſome mea<g ref="char:EOLunhyphen"/>ſure; as they did who believe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe joyfull tydings at the foundin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forth of our Salvation by the bloo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Chriſt, in the primitive time<g ref="char:punc">▪</g> when the Goſpel was firſt preached to them.</p>
+               <p>And this now is faith, even to receive the Teſtimony of the So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God, concerning the love of God, and to believe in him for Salvation<g ref="char:punc">▪</g> 
+                  <hi>Look unto me and be ye ſaved, all the ends of the Earth. Iſa.</hi> 45.22. As <hi>Moſes</hi> lifted up the Serpent in the Wilderneſs, ſo the Son of man was lifted up; <hi>that whoſoever believeth in him ſhould not periſh, but have ever<g ref="char:EOLhyphen"/>laſting life: For God ſo loved the World, that he gave his only begotten Son, that whoſoever believeth in him,
+<pb n="15" facs="tcp:172744:10"/> ſhould not periſh, but have everlaſting life, Joh.</hi> 3.14, 15, 16. The words are doubled to confirm the certain<g ref="char:EOLhyphen"/>ty thereof. And therefore ſeeing we have Salvation in him and by him, and by no other, he is cal<g ref="char:EOLhyphen"/>led, <hi>The Lord our Righteouſneſs, Jer.</hi> 23.6. For <hi>he is made of God unto us, Wiſdome, and Righteouſneſs, and Sanctification, and redemption, that according as it is written, he that gloryeth, let him glory in the Lord,</hi> 1 <hi>Cor.</hi> 1.30, 31. Let him glory in the Lord, not in his own works, for all glorying therein is caſt out. Therefore ſhall men ſay, <hi>in the Lord have I righteouſneſs and ſtrength. Iſa.</hi> 45.24.</p>
+               <p>He that believeth this love of God in Chriſt, therewith receiveth Chriſt, and with him power to be<g ref="char:EOLhyphen"/>come a Son of God. <hi>Joh.</hi> 1.12. <hi>As many as received him to them gave he power to become the Sons of God, even to them that believe on his name.</hi> To believe on his name is to receive him, and to receive him is to be<g ref="char:EOLhyphen"/>lieve
+<pb n="16" facs="tcp:172744:11"/> on his name: So that by fai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſt is received. <hi>And by faith a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Spirit of Chriſt is received, Gal.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2, <hi>and</hi> 5. <hi>This only would I learn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> you: received ye the Spirit, by t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> works of the Law or by the hearing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> faith,</hi> (that is of Salvation by fait<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>ver.</hi> 5. <hi>He therefore that ministre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to you the Spirit — doth he it the works of the Law or by the heari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of faith?</hi> The Scripture many tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> layes that down by way of queſtio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which is undenyable, as it do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> here; as much as to ſay, <hi>I'ts by fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that the Spirit is received:</hi> for he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the hearing of faith, we mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> underſtand ſuch a hearing as is a r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ceiving or obeying the Goſpel: a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in this the Spirit is received.</p>
+               <p>
+                  <hi>And ſo by faith alſo we receive r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>miſſion of ſins. To him give all the Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>phets witneſſe, that through his nam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whoſoever believeth in him ſhall recei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> remiſſion of ſinns. Act.</hi> 10.43. A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this was the Doctrine that <hi>Peter</hi> w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> preaching to <hi>Cornelius</hi> and the that were with him when the Ho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:172744:11"/> Ghoſt fell on all them that heard <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e word. <hi>ver.</hi> 44. Now where <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hriſt and his Spirit</hi> is received, it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rnes the Heart from ſin, and turns <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to righteouſneſs. And this tur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of the minde and Heart from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to righteouſneſs is repentance. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is not a little remorſe or ſorrow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or ſins paſt only, and yet conti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uing therein: but turning from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t toward righteouſneſs, that's re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entance. So all theſe things ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ompany the miniſtery of the Goſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el, or the true preaching of Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd receiving of him, it opens the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes to ſee the love of God, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is mercyfull kindneſs in Chriſt Je<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us, <hi>and this turns them from dark<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſs to light, and ſo from the power of Satan unto God</hi> (this is true repen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance) <hi>that ſo they may receive remiſ<g ref="char:EOLhyphen"/>ſion of ſins, and inheritance among <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hem which are ſanctifyed by faith in Chriſt Jeſus. Act.</hi> 26.18. The Spi<g ref="char:EOLhyphen"/>rit of Chriſt entring into the Heart by faith, or in believing, turns it or converts it from ſin to God, by
+<pb n="18" facs="tcp:172744:12"/> renewing of it, and ſo waſhes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from its filthines <hi>by the blood <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chriſt,</hi> and Sanctifyes it. There<g ref="char:EOLunhyphen"/>fore ſaid Chriſt, <hi>except I waſh the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thou haſt no part in mee.</hi> Here's th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> waſhing and ſprinkling by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blood; here's the being born agai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Water and of the Spirit witho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which one cannot enter into th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kingdome of God: here's the wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of regeneration, without whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one cannot ſee the Kingdom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God. <hi>Joh.</hi> 3. <hi>So now all things a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> become new and the Stream turne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> The <hi>Stream</hi> of that mans Heart <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which was downward towards th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Earth, and towards evil, is no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> turned upwards towards God, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> towards things that are good: Long<g ref="char:EOLunhyphen"/>ing after a participation of Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heavenly nature, and Holyneſs<g ref="char:punc">▪</g> which it hath received a taſte <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and as a new born Babe he now de<g ref="char:EOLunhyphen"/>ſires and longs after the ſince<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Milk of the word, that he ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grow thereby, and feel more an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more fellowſhip with the Heaven<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:172744:12"/> nature. Flouriſhes of wit, and elo<g ref="char:EOLhyphen"/>quence which pleaſe the itching Ear, will not ſatisfy this hungring Babe, but the ſincere uncorrupted Milk of the word, which adds ſtrength and growth. Thus I ſay God lets in ſomething of himſelf and Heavenly nature by faith into the Hearts of the Sons of men, that they taſting of that Heavenly na<g ref="char:EOLhyphen"/>ture may preſſe after a further en<g ref="char:EOLhyphen"/>joyment thereof, and to be more and more filled therewith.</p>
+               <p>And thus faith is an inward work wrought by the power of God ope<g ref="char:EOLhyphen"/>ning the Heart to receive the love of God, whereby a new work is wrought in the Heart, renewing it, or regenerating it again to God, and forming a new Creation in the Heart, which makes a man a new Creature. And there is a going on in this work from faith to faith, and ſo a following on in the rege<g ref="char:EOLhyphen"/>neration. And this is the great available thing with the Lord, as the Apoſtle teſtifyed ſaying, <hi>neither
+<pb n="20" facs="tcp:172744:13"/> circumciſion availeth any thing wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Lord, nor uncircumciſion but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> new creature, or new creation, Gal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 6.15. which he otherwiſe expreſ<g ref="char:EOLunhyphen"/>ſes thus, <hi>chap.</hi> 5.6. <hi>Neither circum<g ref="char:EOLunhyphen"/>ciſion availeth any thing with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord nor uncircumciſion, but fait<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> which worketh by love.</hi> No outwar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thing, no outward profeſſion, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the available thing, but faith whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worketh by love, and which re<g ref="char:EOLunhyphen"/>newes the creature, or makes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man a new creature. This is tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which the Lord accepts: becauſe now a man begins to live to God<g ref="char:punc">▪</g> and to be a Veſſel ſanctifyed for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maſters uſe. This work raiſes him up, and ſets him upon his feet, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a man raiſed up from the dead<g ref="char:punc">▪</g> and now it is the delight of thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> new man to doe the will of God<g ref="char:punc">▪</g> and to be found in his work. An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now he begins to warr and ſigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the good fight of faith, ſtriving againſt ſin, that he may keep hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſcience pure and clear befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord. For the myſtery of fait<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:172744:13"/> is thereby preſerved. <hi>The myſtery of faith is held in a pure conſcience,</hi> 1 <hi>Tim.</hi> 3.9. Faithfulneſs to God pre<g ref="char:EOLhyphen"/>ſerves and nouriſhes faith. That is, Faithfulneſs to what the conſcience knows to be the will of God, this preſerves peace and faith in God. But in caſe of being overcome by the Enemy, the Lord calls for re<g ref="char:EOLhyphen"/>pentance; that is, turning from the evil with all our Hearts, and turning again to him, and looking to his mercy and forgiveneſs, with a ſtedfaſt purpoſe to cleave to him in fear and trembling, conſidering our own weakneſs; and ſo waiting upon him for help to overcome: and in his due time he purges the conſcience again from the evil, and purifies it by the blood of ſprin<g ref="char:EOLhyphen"/>kling, even by the blood of Chriſt: and thus our Lord Jeſus Chriſt waſhes us in his <hi>own blood by the Spi<g ref="char:EOLhyphen"/>rit,</hi> renewing his love in the Heart, and remitting the tranſgreſſion. And ſo faith is reſtored in a true Heart; though it hath been over<g ref="char:EOLhyphen"/>taked
+<pb n="22" facs="tcp:172744:14"/> by the ſubtilty of the Ene<g ref="char:EOLhyphen"/>my. For indeed <hi>the failings of the true Seed, or truely converted,</hi> are not from a life had in the evil, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rather from being ſurpriſed, and overtaken: therefore it cauſes grie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and anguiſh, and a crying unto the Lord for deliverance. Whereas he that hath a life in the Evil, he reſts in it. While the ſtrong man keeps the Houſe all things are at quiet: But when a ſtronger then he is come, he diſturbes that quietneſs in the evil; ther's no reſt there<g ref="char:punc">▪</g> For what fellowſhip can the true ſeed have with falſehood? What Communion can Chriſt the true Spirit have with the works of the evil Spirit in us? Therefore he caſts out the deceiver and his works. Therefore that Faith that is under the bleſſing muſt needs warr againſt the deceiver to caſt him out: other<g ref="char:EOLhyphen"/>wiſe it is not right. For Faith in Truth begets an honeſt and true Heart, which works againſt deceit and the deceiver. True Faith firſt
+<pb n="23" facs="tcp:172744:14"/> begets an honeſt and true Heart, and then is therein retained, as in a fit Veſſel. And the departing from Truth and honeſty and uprightneſs makes Shipwrack of Faith.</p>
+               <p>To open this myſtery of Faith more plainly, whereby the Truth thereof may be known, and it may be diſcerned in ſome meaſure from all falſe appearances thereof, I ſhall come to ſome particulars, that we may know it by the Fruits of it, as Chriſt our Lord hath taught us to know Prophets, of what ſort they are. <hi>Yee ſhall know them by their Fruits.</hi>
+               </p>
+               <p>Firſt, <hi>This Faith purifyes the Heart, Act.</hi> 15.9. That ſo that which flowes out of the Heart may be pure. Out of the Heart unſancti<g ref="char:EOLhyphen"/>fyed proceeds evil thoughts, Mur<g ref="char:EOLhyphen"/>thers, Adulteries, Thefts, Blaſ<g ref="char:EOLhyphen"/>phemies (or ſpeaking evil of Holy<g ref="char:EOLhyphen"/>neſs, and of Holy men, as well as of God) envy, malice, revenge, pride, ſcornfulneſs, ambition, coveteouſneſs and ſuch like, which
+<pb n="24" facs="tcp:172744:15"/> keep a man from entring into the Kingdom of God. For ſuch ſhall not inherit the Kingdom of God, Its the Apoſtles Teſtimony 1 <hi>Cor.</hi> 6.9. <hi>Eph.</hi> 5.5, 6. Therefore <hi>faith is like a Refiners fire to theſe things to conſume and burn them up, and to purifie the Heart from ſuch filth. Purifying their Hearts by faith,</hi> ſaith the Scripture. And this thing the Servants of the Lord witneſſed as to their own condition, as well as others. <hi>We our ſelves</hi> (ſaith the Apoſtle <hi>Tit.</hi> 3.3, 4, 5.) <hi>were ſometimes fooliſh, diſobedient, deceived, ſerving divers luſts and pleaſures, living in malice and envy, hatefull, and hating one another.</hi> This was their ſtate before the kindneſs and love of God our Saviour toward man appeared to them: but after that appeared to them (which is the very ground of Faith) then came the waſhing from theſe things, and Salvation. <hi>But after that the kindneſs and love of God our Saviour toward man appeared, not by works of right<g ref="char:EOLhyphen"/>ouſneſs which we have done, but ac<g ref="char:EOLhyphen"/>cording to his mercy he ſaved us, by
+<pb n="25" facs="tcp:172744:15"/> the waſhing of regeneration, and re<g ref="char:EOLhyphen"/>newing of the Holy Ghoſt</hi> (or Holy Spirit) <hi>which he ſhed on us abundant<g ref="char:EOLhyphen"/>ly through Jeſus Chriſt our Saviour.</hi> Here <hi>Faith</hi> is plainly implyed in this work: For the kindneſs and love of God appearing is received: (and thats Faith) and in this recei<g ref="char:EOLhyphen"/>ving of the love and kindneſs of God comes the waſhing of regene<g ref="char:EOLhyphen"/>ration (<hi>without which waſhing we have no part in Chriſt, Joh.</hi> 13.8.) And ſo here comes the <hi>renewing of our Hearts by the Holy Spirit,</hi> which the Apoſtle calls, <hi>the renewing of the Holy Ghoſt, or Holy Spirit.</hi> That is, the renewing of our Hearts by him, who is let in by Faith, for its we <hi>that want renewing; not the Holy Spirit.</hi> So here the new Crea<g ref="char:EOLhyphen"/>ture is begot by the Spirit, which is created <hi>in Chriſt Jeſus unto good works.</hi> Mark! In Chriſt Jeſus, that is in the miniſtration of the Goſpel, or of the kindneſs and love of God: whereof Chriſt Jeſus is the Miniſter, not in <hi>Moſes</hi> or in the miniſtery of
+<pb n="26" facs="tcp:172744:16"/> the <hi>Law which conſiſts in works:</hi> But in Chriſt Jeſus, whoſe miniſtery is in Faith, in this is the Creation unto good works, that we ſhould live in them, and no longer to ſerve the evil and impure luſts of the Fleſh. <hi>For if we live after the Fleſh we ſhall dye, but if we through the Spirit do mortify the deeds of the body we ſhall live. Rom.</hi> 8.13.</p>
+               <p>Now the Heart thus waſhed and renewed, that which proceeds out of the Heart ſavours of cleannes, and purity. Out of the aboundance of the Heart, the mouth ſpeaks<g ref="char:punc">▪</g> and ſo better language is hereby learn't. <hi>Corrupt language</hi> comes un<g ref="char:EOLhyphen"/>der judgment, being felt inwardly to be contrary, or a burthen to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirit of life now in meaſure recei<g ref="char:EOLhyphen"/>ved. And thus the Lord fulfills hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> promiſe to his People, <hi>in turning to them a pure language.</hi> The lea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> grain of Faith, though it be but a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a grain of Muſtardſeed inclines th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heart thus after righteouſneſs, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Holyneſs. And if through tempta<g ref="char:EOLhyphen"/>tion
+<pb n="27" facs="tcp:172744:16"/> the Heart be ſometimes over<g ref="char:EOLhyphen"/>taken with evil, yet it hath not reſt there, but it turnes again in pur<g ref="char:EOLhyphen"/>ſuite of righteouſneſs, until it get Victory over the World and the luſts thereof: and in Faith is the victory. 1 <hi>Joh.</hi> 5.4. <hi>And here's the Heart that hungers and thirſts after righteouſneſs which it hath received a taſte of, by the Holy Spirit ſhed abroad upon it.</hi> And this is one inſeparable Fruit of true Faith, thus to work againſt ſin, and to thirſt after right<g ref="char:EOLhyphen"/>ouſneſs, from the ſeed of Sanctifi<g ref="char:EOLhyphen"/>cation ſown in the Heart, which ſprings up to eternal life.</p>
+               <p>
+                  <hi>Second<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> Another inſeparable Fruit of true Faith is Love. <hi>Gal.</hi> 5.6. <hi>For in Chriſt Jeſus neither cir<g ref="char:EOLhyphen"/>cumciſion availeth any thing, nor un<g ref="char:EOLhyphen"/>circumciſion, but Faith which worketh by love.</hi> Neither circumciſion nor uncircumciſion: no outward badge or character is now available with God, but Faith which worketh by love. No outward diſtinction, nor every Faith neither is available with
+<pb n="28" facs="tcp:172744:17"/> God, but that Faith which works by love. Such a Faith as is of the true ſtamp, which hath the nature of Chriſt Jeſus in it, which is love. This is that Faith which pleaſes the Lord. And this therefore diſcovers all killing and deſtroying Faiths, all perſecuting and hurtfull Faiths, to be ungrounded and falſe Faiths They are not right: they bear not a reſemblance with the Faith of the Apoſtles and ancient believers. But ſuch a Faith is a Heterodox Anti-chriſtian Faith. Its not of a right birth: but ſpurious, begot by <hi>th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Law of works,</hi> or from the evil one and not from the kindneſs and love of God in Chriſt Jeſus. Its a <hi>kin</hi> to the faith of <hi>Devils:</hi> The Devils believe and tremble, but remain Murderers: So theſe that believe and remain Mutherers and perſecu<g ref="char:EOLhyphen"/>ters, ſtand as yet ingrafted into the murthering and perſecuting Spirit. The works of their Fathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they doe who was a Murderer from the beginning. But he that come
+<pb n="29" facs="tcp:172744:17"/> to the true Faith, he works accor<g ref="char:EOLhyphen"/>ding to the nature of that Spirit that begets his Faith, and that is to ſave life, to doe good and not to deſtroy, The deſtroying Faith is of <hi>Apollyon</hi> (that is a deſtroyer) but the ſaving Faith is of him that came to ſave mens lives, and not to deſtroy. That Faith that ſaves us, teaches us to ſave or preſerve others, not to ſeek their deſtru<g ref="char:EOLhyphen"/>ction. It matters not <hi>how zealous men be</hi> for their Faith, if it carry the deſtroying nature in it, its not right in the ſight of God: it ſprings but from works at beſt, not from grace, nor is it according to know<g ref="char:EOLhyphen"/>ledge. The perſecuting Jews had a Zeal of God but not according to knowledge; and ſo may falſe Faiths have: and hereby they are diſco<g ref="char:EOLhyphen"/>vered to the true ſeed, that they are not according to true know<g ref="char:EOLhyphen"/>ledge. This is the ſecond Character of true Faith, it works by love.</p>
+               <p>
+                  <hi>Thirdly,</hi> It brings peace and conſolation. <hi>Rom.</hi> 5.1. <hi>Therefore
+<pb n="30" facs="tcp:172744:18"/> being juſtifyed by Faith we have peace with God through our Lord Jeſus Chriſt:</hi> Therefore ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>the God of hope, fill you with all joy and peace in believing. Rom.</hi> 15.13. It muſt needs follow that he that ſenſibly believes this love of God in Chriſt Jeſus to all men, and to him in particular: It muſt needs be I ſay that peace will ſpring up in his Heart thereby. And ſo here's the entrance into the Kingdom of God by Faith. The Kingdom of God is within; and it conſiſts in righteouſ<g ref="char:EOLhyphen"/>neſs and peace and joy in the Holy Spirit. And into this Kingdom or Heavenly <hi>Canaan</hi> we enter by Faith. While unbelief and fears lye upon us and ſhut up our Spirits, we are ſhort yet of our poſſeſſion of the Kingdom. There are ſome to whom the Kingdom of Heaven belongs, who are not fully entred into the poſſeſſion of it, as an inheritance may belong to an Heir, before the time come that he poſſeſſeth it: ſuch are the <hi>poor in Spirit,</hi> who go
+<pb n="31" facs="tcp:172744:18"/> mourning under the ſenſe of the bo<g ref="char:EOLhyphen"/>dy of ſin <hi>not yet ſhaken off,</hi> and who go hungring and thirſting after righteouſneſs, which they have not yet attained unto as their Souls deſire. Such I ſay, are under a bleſ<g ref="char:EOLhyphen"/>ſing, and have right to the King<g ref="char:EOLhyphen"/>dom of God, though as yet they go mourning. For Chriſt Jeſus our Lord applyes the right of the King<g ref="char:EOLhyphen"/>dom to them. <hi>Bleſſed are the poor in Spirit, for theirs is the Kingdom of Heaven.</hi> And <hi>bleſſed are they that mourn, for they ſhall be comforted, Matt.</hi> 5.3, 4. Their mourning is while they are in travel: but when they have brought forth then there is rejoycing, when Faith hath over<g ref="char:EOLhyphen"/>come, then joy and gladneſs. And this is in ſome ſooner, in ſome la<g ref="char:EOLhyphen"/>ter. In the primitive times of the Apoſtles, when the myſtery of the Goſpel or glad tydings was holden forth with open face, as I may ſay, and without a vail or myſt, many that received thoſe tydings by Faith were immediatly filled with peace
+<pb n="32" facs="tcp:172744:19"/> and conſolation. How quickly was the <hi>Jaylor</hi> that came in trembling and fell down before <hi>Paul</hi> and <hi>Silas,</hi> crying out, <hi>Syr's what muſt I doe to be ſaved?</hi> How quickly I ſay was he raiſed up into peace and conſola<g ref="char:EOLhyphen"/>tion, after he had heard the joyfull tydings of Salvation by Chriſt Jeſus plainly preached to him in few words, and by Faith received it? <hi>Act.</hi> 16.31, 32, 33, 34. <hi>And they ſaid, Believe on the Lord Jeſus Chriſt, and thou ſhalt be ſaved, and thy Houſe. And they ſpake unto him the word of the Lord, and to all that were in his Houſe. And he took them the ſame hour of the night</hi> (it was not a work of many hours but the ſame hour) <hi>and waſhed their ſtripes and was Baptized, he and all his ſtraight way. And when he had brought them into his Houſe, he ſet meat before them, and rejoyced, believing in God with all his Houſe.</hi> See how love and joy accompanied his Faith, believing in God he re<g ref="char:EOLhyphen"/>joyced. Therefore the Goſpel is called, <hi>glad tyding of great joy.</hi> For
+<pb n="33" facs="tcp:172744:19"/> who can believe that his ſins are done away in Chriſt Jeſus, and that freely by grace, (or in love,) the Lord accepteth him in Chriſt Jeſus, and not therein rejoyce. <hi>The Preach<g ref="char:EOLhyphen"/>ing of the Goſpel, is preaching peace by Jeſus Chriſt, Act.</hi> 10.26. <hi>Eph.</hi> 2.17. And therefore its call'd, <hi>the Goſpel of Peace. How beautifull are the feet of them that preach the Goſpel of peace, and bring glad tydings of good things,</hi> Rom. 10.15. <hi>The</hi> Eunuch <hi>to whom</hi> Philip <hi>preached Chriſt, and opened to him the way of Salvation by Chriſt, and he by Faith had received this love of God in Chriſt, the ſame day he was filled with joy, and after</hi> Philip <hi>was caught away from him, he went on his way rejoycing. Act.</hi> 8.39. So at <hi>Sa<g ref="char:EOLhyphen"/>mari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Philip</hi> having preached Chriſt unto them and working Mi<g ref="char:EOLhyphen"/>racles in his name, <hi>there was great joy in that City. Act.</hi> 8.8. So like<g ref="char:EOLhyphen"/>wiſe that great multitude that was converted at <hi>Peters</hi> preaching the Goſpel to them, <hi>Act.</hi> 2. beſides thoſe eminent Fruits of love which
+<pb n="34" facs="tcp:172744:20"/> ſprang up in them in an extraordi<g ref="char:EOLhyphen"/>nary manner, they alſo were filled with great joy and conſolation, which made them to eat their meat with gladneſs and ſinglenes of praiſing God.</p>
+               <p>This true Faith in Chriſt Jeſus brings peace and conſolation upon two principal accounts. Firſt, be<g ref="char:EOLhyphen"/>cauſe it receives the glad tydings of remiſſion or forgiveneſs of ſins by Jeſus Chriſt. The guilt of ſin, or <hi>conſcience of ſin</hi> binds a man under the fear of condemnation, and cau<g ref="char:EOLhyphen"/>ſes him to cry out in the bitterneſs of his Soul, <hi>what ſhall I doe?</hi> As it did theſe here in the 2d of the Acts when they were ſtruck with a ſenſe of their ſin, they cryed out, <hi>Men and Brethren what ſhall we doe?</hi> And ſo the <hi>Jaylor, what ſhall I doe to be ſaved?</hi> And this ſtate the Apoſtle <hi>Paul</hi> perſonates, <hi>Rom.</hi> 7.24. <hi>O wretched Man that I am, who ſhall deliver me from the body of this death?</hi> Now what can be more joyfull at ſuch a time, and to ſuch a condi<g ref="char:EOLhyphen"/>tion,
+<pb n="35" facs="tcp:172744:20"/> then to be ſatisfyed that their ſins are forgiven them, and that Chriſt Jeſus the Lamb of God, that taketh away the Sin of the World, <hi>hath borne their ſin in his own body on the Tree:</hi> And ſo to have their con<g ref="char:EOLhyphen"/>ſcience ſprinkled by his blood from an evil conſcience, and to be made clean by that blood of ſprinkling. Here's cauſe indeed of rejoycing by Faith in him. For now the chaine of darkneſs is unlooſed, and the li<g ref="char:EOLhyphen"/>berty of the Sons of God begins to appear, and he is tranſlated out of darkneſs into marvellous light. <hi>Even the light of life.</hi> 1 <hi>Pet.</hi> 2.9. And then ſecondly in this faith there is alſo a meaſure of the Spirit received, which is the comforter, and brings his Teſtimony with him, which is beyond all words for giving conſo<g ref="char:EOLhyphen"/>lation and peace. The Spirit wit<g ref="char:EOLhyphen"/>neſſing with our Spirits, that we are accepted into Sonſhip with God. And therefore the joy received in believing is called, <hi>the joy of the Holy Ghoſt, or Holy Spirit.</hi> 1 <hi>Theſſ.</hi>
+                  <pb n="36" facs="tcp:172744:21"/> 1.6. <hi>And ye became followers of us and of the Lord, having received the word in much affliction, and joy of the Holy Ghoſt.</hi> That is, joy which the Holy Ghoſt or Holy Spirit mini<g ref="char:EOLhyphen"/>ſtred in their receiving the word. There's joy in Heaven over one ſin<g ref="char:EOLhyphen"/>ner that truely repents, and he alſo is made partaker of that joy. Thus the Fruit of the Spirit is love, joy, peace to that man that receives the Teſtimony of the love of God in Chriſt Jeſus: and alſo it begets the ſame in that man towards others. It begets love in him towards others, and joy in their returning to God, and makes him a man of Peace in the World.</p>
+               <p>Obj. <hi>It may be ſome may ſay how can this be, ſeeing Chriſt ſaid,</hi> I came not to ſend peace on Earth, but a Sword: <hi>And to ſet one man at va<g ref="char:EOLhyphen"/>riance againſt another?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That is occaſionally, be<g ref="char:EOLhyphen"/>cauſe the Earthly Spirit, will be oppoſing and perſecuting the right<g ref="char:EOLhyphen"/>ous ſeed: although the righteous
+<pb n="37" facs="tcp:172744:21"/> ſeed be a ſeed of peace and quiet<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs in it ſelf, and to others.</p>
+               <p>Obj. <hi>Again ſome may ſay, Chriſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ells of mourning,</hi> ye ſhall mourn, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the World ſhall rejoyce, &amp;c. <hi>How then doth this ſtand with that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, which thou ſpeaks of?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> A Woman while ſhe is in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ravel hath ſorrow but when ſhe hath brought forth ſhe rejoyceth for joy that a man Childe is brought forth into the World: ſo it is here. And then again ſaith Chriſt Jeſus, <hi>In the World ye ſhall have tribulation, but in me ye ſhall have peace, Joh.</hi> 16.33.</p>
+               <p>
+                  <hi>Forthly,</hi> I come now to another Fruit or concomitant of this Faith, and that is this, <hi>it excludes boaſt<g ref="char:EOLhyphen"/>ing: It cuts down vainglory. Where is boaſting then? It is excluded: By what Law? Of Works? Nay; but by the Law of Faith. Rom.</hi> 3.27. For what hath that man to glory in, in reſpect of himſelf, that ſees him<g ref="char:EOLhyphen"/>ſelf wholy a receiver at the hands of the Lord? When he rightly ſees
+<pb n="38" facs="tcp:172744:22"/> himſelf juſtifyed freely by grace<g ref="char:punc">▪</g> and the ſuperaboundant mercy o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God; who hath revealed himſelf to him in Chriſt Jeſus: (That is, hath revealed his love to him in Chriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jeſus; for God is love.) And hath let him ſee, that he is accepted freely in Chriſt Jeſus. He that hath the right ſence of this upon his Spi<g ref="char:EOLhyphen"/>rit, it draws his Heart into the ad<g ref="char:EOLhyphen"/>miration of the infinite love and mercy of God, in deep humility<g ref="char:punc">▪</g> And the more fully this is revealed to him or in him, the greater is his admiration ſtill of the glory of God in this his mercy, and the deeper is his humility, and lowlines of minde Minde but the writings of the Holy Apoſtles of Chriſt Jeſus, and you will finde it ſo, that ſtill they are harping upon this ſtring, ſounding forth the mercies of the Lord in Chriſt Jeſus, and his love in revealing his Son to them. Yea obſerve but that high ſtate of the Elders, ſpoken of in the Book of the Revelations, who were ſet
+<pb n="39" facs="tcp:172744:22"/> upon ſeats round about the Throne, and cloathed in white Raiment, and Crowned. The ſubſtance of their ſong was this; <hi>Thou art worthy to take the Book, and to open the Seals thereof.</hi> (Now mark why;) <hi>For thou was ſlain and haſt redeemed us to God, by thy Blood, out of every kin<g ref="char:EOLhyphen"/>red, and Tongue, and People and Nation.</hi> (Mark!) Not a word of their own righteouſneſs, not a word of their works, how good ſo<g ref="char:EOLhyphen"/>ever they were, which doubtles were excellent, but yet not a word there<g ref="char:EOLhyphen"/>of, the riches of the mercy of God in Chriſt Jeſus puts all that out of ſight, and layes them low at his Footſtool, for they are ſaid to fall down before the Lamb, and ſing this Song. <hi>Now what are theſe El<g ref="char:EOLhyphen"/>ders, but repreſentatives of all the Elect ſeed of God from all parts of the Earth?</hi> Seeing it is contained in their Song, that they were redee<g ref="char:EOLhyphen"/>med by his Blood <hi>out of every kinred, and Tongue, and People, and Nation.</hi> Now there be many more <hi>kinreds,
+<pb n="40" facs="tcp:172744:23"/> and Tongues and Nations</hi> then four and twenty: but all repreſented by theſe four and twenty.</p>
+               <p>Well then you ſee their faith in Chriſt is not like the Faith of the <hi>Phariſees,</hi> in which they ſtand juſti<g ref="char:EOLhyphen"/>fying themſelves in their own works, and exalting, themſelves thereby over poor Publicans. But all their admiration and glorying is in the mercy of God. And ſo we finde the Apoſtles ſounding forth the ſame things in their Epiſtles. <hi>Eph.</hi> 2.4, 5, 6, 7, 8, 9. <hi>But God who is rich in mercy, for his great love where<g ref="char:EOLhyphen"/>with he loved us; even when we were dead in ſins, hath quickned us together with Chriſt (by grace ye are ſaved.) And hath raiſed us up together, and made us ſit together in Heavenly places in Chriſt Jeſus: that in ages to come he might ſhew the exceeding riches of his grace, in his kindneſs towards us, through Chriſt Jeſus. For by grace ye are ſaved, through Faith, and that not of your ſelves it is the gift of God: Not of works, leſt any man ſhould
+<pb n="41" facs="tcp:172744:23"/> boaſt.</hi> Thus all boaſting is excluded by true Faith. And as I have ſhewed before, the right Faith works by love: and that love is not of an exalting nature. But as the Apoſtle ſaith, <hi>it vaunteth not it ſelf, is not puffed up.</hi> 1 <hi>Cor.</hi> 13.4. Thus the true and right Faith ſhuts out boaſt<g ref="char:EOLhyphen"/>ing, and cuts down vainglory, and makes humble. Therefore ſaith our Lord Jeſus Chriſt, <hi>Verely I ſay unto you, except ye be converted, and be<g ref="char:EOLhyphen"/>come as little Children, ye ſhall not enter into the Kingdom of Heaven. Whoſoever therefore ſhall humble him<g ref="char:EOLhyphen"/>ſelf as this little Childe, the ſame is greateſt in the Kingdom of Heaven. Matth.</hi> 18.3, 4.</p>
+               <p>
+                  <hi>Fifthly,</hi> To proceed, this true Faith is accompanyed with an <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ction,</hi> or an <hi>Anointing from the holy one. John</hi> writing to thoſe he calls little Children, whoſe ſins are for<g ref="char:EOLhyphen"/>given for his names ſake, ſaith thus, <hi>But ye have an <g ref="char:V">Ʋ</g>nction from the holy one, and ye know all things.</hi> 1 <hi>Joh.</hi> 2.20. All things, that is, that
+<pb n="42" facs="tcp:172744:24"/> appertained to life and godlineſs. Why? For this Unction or Anoin<g ref="char:EOLhyphen"/>ting taught them all things that ap<g ref="char:EOLhyphen"/>pertained thereto, that ſo walking according to the teaching thereof, they might abide in Chriſt. Now this Unction is the Spirit, which gives a ſenſe and feeling of the will of God what he would have us to doe, and what he would have us to forbear<g ref="char:punc">▪</g> And we need not that any ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould teach us beyond the teaching<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of that, to amuſe us with high no<g ref="char:EOLunhyphen"/>tions and myſteries which the Un<g ref="char:EOLunhyphen"/>ction gives us no openings of. An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo keeping to that, keept us wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſobriety; minding to doe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will of God which the Unction in<g ref="char:EOLunhyphen"/>clines our Hearts to, rather the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to fill the brain with knowledge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> things which add not to our com<g ref="char:EOLunhyphen"/>fort, and profiting and grouth i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt. Now that this Unction <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Spirit appears by compearin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this Scripture with another. Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is, compare this 1 <hi>Joh.</hi> 2.20, 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with <hi>Ioh.</hi> 14.16, 17. Where it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="43" facs="tcp:172744:24"/> expreſſed by the name of the Spirit. <hi>I will pray the Father, and he ſhall give you another comforter, that he may abide with you for ever; even the Spirit of Truth, whom the World cannot receive, becauſe it ſeeth him not, neither knoweth him: but ye know him, for he dwelleth with you, and ſhall be in you.</hi> This is that abideing Un<g ref="char:EOLhyphen"/>ction which abides with the Faith<g ref="char:EOLhyphen"/>full for ever. The Unction is a con<g ref="char:EOLhyphen"/>ſtant abiding thing, and ſo is the Spirit, abiding for ever. Thus the Lord fulfills his promiſe of old, <hi>Iſa.</hi> 44.3. and <hi>chap.</hi> 59.21. <hi>I will pour Water upon him that is thirſty: and floods upon the dry ground.</hi> (Thir<g ref="char:EOLhyphen"/>ſty and dry, theſe are ſuch as hun<g ref="char:EOLhyphen"/>ger and thirſt, and fit to receive the Heavenly rain) but he expreſſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t more plainly in the following words; thus, <hi>I will pour my Spirit upon thy ſeed, and my bleſſing upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hine Off-ſpring.</hi> Then in <hi>ch.</hi> 59.21. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he promiſes the conſtancy of this Spirit with the ſeed of Chriſt; in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe words. <hi>As for me this is my
+<pb n="44" facs="tcp:172744:25"/> Covenant with them, ſaith the Lord. My Spirit that is upon thee, and my words which I have put in thy Mouth, ſhall not depart out of thy Mouth, nor out of the Mouth of thy Seed, nor out of the Mouth of thy Seeds Seed, ſaith the Lord, from henceforth and for ever.</hi> So that this is a promiſe to all the Seed, and that for ever: which promiſe is fulfilled to all faithfull believers in Chriſt Jeſus. There<g ref="char:EOLhyphen"/>fore ſaith the Apoſtle, <hi>if any ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> have not the Spirit of Chriſt, he i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> none of his. Rom.</hi> 8.9. And herein th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Son-ſhip is eſtabliſhed even in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirit, or abiding Unction, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Anointing: As the Apoſtle witneſ<g ref="char:EOLhyphen"/>ſeth. <hi>ver.</hi> 14. <hi>For as many as are le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> by the Spirit of God, they are the Son<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of God.</hi> Thus the Anointing wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Spirit, (typifyed by the pre<g ref="char:EOLunhyphen"/>cious Ointment that was poure<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon <hi>Aarons</hi> head, and ran dow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the Skirts of his Garment,) thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Anointing with the Spirit run<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down from our High-Prieſt to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> loweſt of his Servants. <hi>He wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="45" facs="tcp:172744:25"/> anointed with the Oyl of gladneſs above his fellows, but we all of his fullneſs receive every one a meaſure of his Spi<g ref="char:EOLhyphen"/>rit:</hi> and ſo are hereby ſtated, by this Spirit of Adoption, into Son<g ref="char:EOLhyphen"/>ſhip and Heir-ſhip with him. <hi>If Children, then Heirs, Heirs of God, and joynt-heirs with Chriſt,</hi> &amp;c. <hi>Rom.</hi> 8.17. And this ſtate or Spiritual condition carryes its own evidence in it ſelf: for, <hi>the Spirit it ſelf, beareth witneſs with our Spirit, that we are the Children of God. ver.</hi> 16. And as this Spirit or Unction is a guide to the Children of light, lead<g ref="char:EOLhyphen"/>ing them into all Truth; and as it is a witneſs to the Children of God, witneſſing with their Spirits, and adminiſtring comfort, and Heavenly food to the Soul: So alſo he adminiſters words and mat<g ref="char:EOLhyphen"/>ter to Chriſts little ones, when they are called before Rulers and Magi<g ref="char:EOLhyphen"/>ſtrates for his names ſake. And Chriſt Jeſus our Lord taught his to depend hereupon, and not to per<g ref="char:EOLhyphen"/>plex themſelves with thinking be<g ref="char:EOLhyphen"/>fore
+<pb n="46" facs="tcp:172744:26"/> hand what to ſay to them. <hi>Matt.</hi> 10.19, 20. <hi>But when they de<g ref="char:EOLhyphen"/>liver you up, take no thought how or what ye ſhall ſpeak: for it ſhall be given you in that ſame hour, what ye ſhall ſpeak. For it is not ye that ſpeak, but the Spirit of your Father that ſpea<g ref="char:EOLhyphen"/>keth in you.</hi> Hence it is that ſome<g ref="char:EOLhyphen"/>times Women and unletter'd Per<g ref="char:EOLhyphen"/>ſons, have been enabled to con<g ref="char:EOLhyphen"/>found great learned men, <hi>for the Lord by his Spirit gives a mouth and wiſdome which their Adverſaries ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not able to gainſay nor to reſiſt.</hi>
+               </p>
+               <p>This is that Spirit which beget<g ref="char:EOLhyphen"/>teth earnings and longings in our Hearts after the Lord: and which helpeth our infirmities, when we know not how to utter our minds to the Lord: for then he maketh in<g ref="char:EOLhyphen"/>terceſſion for us, with groanings which cannot be uttered: and theſe groanings being according to the will of God, he hears them: for he knoweth what is the minde of the Spirit. <hi>Rom.</hi> 8.26, 27.</p>
+               <p>There be many Spirits gone
+<pb n="47" facs="tcp:172744:26"/> forth into the World, which are not this Unction, but work con<g ref="char:EOLhyphen"/>trary to it, and lead out from Chriſt into the World: therefore the Apoſtle bids us, <hi>try the Spirits, whe<g ref="char:EOLhyphen"/>ther they are of God.</hi> 1 <hi>Joh.</hi> 4.2. Well but how ſhall we try them? He tells us how to know them in the next verſes following. <hi>Hereby know ye the Spirit of God. Every Spirit that con<g ref="char:EOLhyphen"/>feſſeth Jeſus Chriſt come in the Fleſh is of God. And every Spirit that con<g ref="char:EOLhyphen"/>feſſeth not Jeſus Chriſt come in the Fleſh, is not of God.</hi> For ſo the words run more truely according to the Greek, then to render them thus; <hi>Every Spirit that confeſſeth that Jeſus Chriſt is come in the Fleſh,</hi> &amp;c. For this confeſſion is ſuch a confeſ<g ref="char:EOLhyphen"/>ſion as owns an intereſt in him, or profeſſes a relation to him, by Faith in him, and by love and obedience to him. <hi>The evil Spirits did verbally confeſſe him; Mar.</hi> 1.24. and ſo evil men may verbally confeſſe him: tho they neither truely believe in him, nor love, nor obey him. But this
+<pb n="48" facs="tcp:172744:27"/> true confeſſion of him hath theſe things neceſſarily conjoyned there<g ref="char:EOLhyphen"/>with. 1. Faith. <hi>Iohn</hi> 3.18, 36. For that Spirit that wants that, is un<g ref="char:EOLhyphen"/>der condemnation and wrath: as this Scripture teſtifyes. 2. Love. 1 <hi>Cor.</hi> 16.24. <hi>If any man love not the Lord Jeſus Chriſt, let him be</hi> Ana<g ref="char:EOLhyphen"/>thema Maranatha. 3. Obedience to him. And therefore ſaith <hi>John, he that ſaith I know him, and keepeth not his Commandements is a lyar, and the Truth is not in him.</hi> So then eve<g ref="char:EOLhyphen"/>ry Spirit that confeſſes that Jeſus Chriſt that ſuffered for our ſins, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Faith, and in Love and Obedience to him, that Spirit is of God. But otherwiſe evil Spirits may confeſſe him: and Children of the evil one may confeſſe him. Alſo the Apoſtle draweth this down to himſelf, and others who were in the pure and li<g ref="char:EOLhyphen"/>ving faith, and innocent life in whom Chriſt appeared. <hi>ver.</hi> 6. o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame Chapter. <hi>We are of God<g ref="char:punc">▪</g> he that knoweth God heareth us: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that is not of God heareth not us: here<g ref="char:EOLhyphen"/>by
+<pb n="49" facs="tcp:172744:27"/> know we the Spirit of Truth and the Spirit of error.</hi> So here you ſee he places the mark to know Spirits by upon their owning or not owning of Chriſt himſelf, come in Fleſh, and of him appearing in others: For they that know him not in his Children where he appears, but deny his appearance there, they are not of his Spirit themſelves. But then how ſhall we know his Chil<g ref="char:EOLhyphen"/>dren, from the Children of the De<g ref="char:EOLhyphen"/>vil? The Apoſtle tells us, <hi>this is manifeſt by their works.</hi> 1 <hi>Joh.</hi> 3.10. He doth not ſay, its manifeſt by any <hi>particular forme,</hi> but by their works: <hi>In this the Children of God are manifeſt, and the Children of the Devil: Whoſoever doth not righte<g ref="char:EOLhyphen"/>ouſneſs is not of God, neither he that loveth not his Brother.</hi> So then let men pretend what they will, if their works be evil, they are not of God. So that by their works falſe Spirits and falſe Prophets are known: and by them they ſhall be judged at the laſt day. Though they
+<pb n="50" facs="tcp:172744:28"/> ſhall ſay, <hi>we have Prophecyed in thy name,</hi> yet it ſhall be ſaid to them, <hi>Depart from me, I know you not ye workers of Iniquity.</hi> Now theſe muſt needs own his comming, that Pro<g ref="char:EOLhyphen"/>phecy in his name. And that they may doe, and yet not own hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> where he is come and appears i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fleſh. And ſo they may confeſſe hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> comming; and yet not confeſſe him<g ref="char:EOLhyphen"/>ſelf where he is come. As the <hi>Iew</hi> owned <hi>Moſes</hi> and the Prophets wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were come and gone: but yet per<g ref="char:EOLunhyphen"/>ſecuted them that came in their Spi<g ref="char:EOLunhyphen"/>rit: they owned and confeſſed <hi>A<g ref="char:EOLunhyphen"/>braham,</hi> but owned not, nor con<g ref="char:EOLunhyphen"/>feſſed the true ſeed of <hi>Abraham</hi>
+                  <g ref="char:punc">▪</g> and ſo were not of <hi>Abraham</hi> thoug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they confeſſed him. In like manne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many now confeſſe that Chriſt cam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Fleſh, but perſecute the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that come in his Spirit, that is per<g ref="char:EOLunhyphen"/>ſecute him in them, for ſo he wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> charge it upon them. Becauſe what done to his little ones, is done upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this account, that he is in them<g ref="char:punc">▪</g> who hath no fellowſhip with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:172744:28"/> unfruitfull works of darkneſs in which they are who perſecute them. For if he were not in them who hath not fellowſhip with unfruitfull works of darkneſs, they would not hate them: but would love them. The World loves its own, and thoſe of its own Spirit. <hi>If you were of the World, the World would love his own, but becauſe ye are not of the World, but I have choſen you out of the World, therefore the World ha<g ref="char:EOLhyphen"/>teth you. Joh.</hi> 15.19.</p>
+               <p>A little further ſtill for the ma<g ref="char:EOLhyphen"/>nifeſtation of this true Unction, or Anointing, to diſtinguiſh it from other Spirits; not only from evil Spirits, but even from ſome ope<g ref="char:EOLhyphen"/>rations of the true Spirit. Conſider that this Holy Unction is an abi<g ref="char:EOLhyphen"/>ding thing keeping the Heart in the fear and love of God, making that the maine care of him in whom it is, to keep in obedience to the will of God, and ſo in fellowſhip with God: for thats the Kingdom into which we are tranſlated: and what<g ref="char:EOLhyphen"/>ſoever
+<pb n="52" facs="tcp:172744:29"/> interpoſeth between us, and that fellowſhip with God who i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> love, that wounds and ſlayes: And we are then like one baniſhed hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> native Kingdom, and like an Exile until we be eſtabliſhed in it again and then there's reſt, and care and fear leſt we grief the Spirit again<g ref="char:punc">▪</g> And thus the promiſe to the true ſeed is fulfilled which ſaith, <hi>I wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> put my fear in their Hearts and they ſhall not depart from me. Jer.</hi> 32.40<g ref="char:punc">▪</g> Now other Spirits which give no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this fellowſhip in the love of God, may doe great things, whereby the perſon may be admired; but they doe not keep the heart low, watch<g ref="char:EOLhyphen"/>ing to doe the will of God. <hi>Balaam</hi> had an eminent Prophecy given him, by the Spirit of the Lord, which alſo ſtrove with him to keep him back from the error of his wayes: but he had not this Holy abideing Unction. And ſo may others have the gift of Prophecy; and under<g ref="char:EOLhyphen"/>ſtand many myſteries, &amp;c. and yet be deſtitute of this Anointing: as
+<pb n="53" facs="tcp:172744:29"/> its plain from the Scriptures. <hi>Pſal.</hi> 68.18. <hi>Mat.</hi> 7.22. 1 <hi>Cor.</hi> 13. But I am ſparing of ſpeaking of theſe things, becauſe the ſame gifts may accompany the true Anointing: and theſe gifts are ſerviceable for the edifying of the Babes of Chriſt. Therefore let none think that I would undervalue ſuch precious gifts, or teach others to deſpiſe Prophecying: that is not my pur<g ref="char:EOLhyphen"/>poſe, but only to give the right underſtanding of that which is eſ<g ref="char:EOLhyphen"/>ſential to Chriſtianity and a Hea<g ref="char:EOLhyphen"/>venly life, in which true believers walk with God. Who doe not al<g ref="char:EOLhyphen"/>wayes bear the greateſt ſhow in their profeſſion, by ſuch gifts, nor bear forth themſelves the higheſt among their Brethren, but yet their lives are <hi>moſt innocent</hi> in the World. I have ſeen in ſeveral profeſſions of Religion, this humble ſeed, this plain hearted, this true hearted <hi>Jacob</hi> bowing under his rough Bro<g ref="char:EOLhyphen"/>ther <hi>Eſau:</hi> and like a little ſhrub under tall Cedars, which flouriſh
+<pb n="54" facs="tcp:172744:30"/> and ſpread forth themſelves over his head: for their inclination is to exalt themſelves, his care to keep out of vain-glory, and to walk humbly with his God. Thus in ſome meaſure the Children of light, who are the firſt Fruits unto God, are diſtinguiſhed from the Children of darkneſs, who are of the World, and therefore love the World, and the things that are of the World, namely, <hi>the luſts of the Fleſh, the luſt of the Eyes, and the pride of life. I doe not mean</hi> that here<g ref="char:EOLhyphen"/>by they are made ſo diſtinct one from another that they may certain<g ref="char:EOLhyphen"/>ly and fully be known in the World: but my endeavour is ſo to diſcover the eſſential life of Chriſtianity to themſelves, that they may not reſt in a formal and circumſtantial pro<g ref="char:EOLhyphen"/>feſſion of Chriſtianity, without the true life and power thereof, where<g ref="char:EOLhyphen"/>in true peace and fellowſhip with God is enjoyed and lived in; which indeed is the Kingdom of God. Which at firſt may be but like a
+<pb n="55" facs="tcp:172744:30"/> grain of Muſtardſeed, but it is of a growing nature. Therefore many may for a time in an outward pro<g ref="char:EOLhyphen"/>feſſion <hi>outſhine</hi> thoſe that are entring yea and entred into the Kingdom: But theſe laſt will become firſt, and thoſe firſt will become laſt. For the ſeed of the free Woman, or new Covenant, born by promiſe, and begot by Faith, will become Heir, when the ſeed of the bond Woman borne after the Fleſh muſt be caſt forth.</p>
+               <p>Theſe things here written are no new things, but according to the current of the Doctrine of Chriſt and his Holy Apoſtles left upon Re<g ref="char:EOLhyphen"/>cord. But it may be ſome Objections may be made againſt them, by ſome. For Truth doth uſually meete with Oppoſition.</p>
+               <p>Obj. <hi>Perhaps ſome will ſay, theſe things ſpeak of the Kingdom of God here in this life: but we look for the Kingdom of God after this life.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> True, the Kingdom of God is here ſpoken of, to be en<g ref="char:EOLhyphen"/>tred
+<pb n="56" facs="tcp:172744:31"/> into, in this life: but not in oppoſition to the Kingdom of God, or Kingdom of Heaven hereafter: but as an entrance into the ever<g ref="char:EOLhyphen"/>laſting Kingdome which ſhall have no end. For the Kingdom of Hea<g ref="char:EOLhyphen"/>ven is begun here, and entred into by faith which works by love, and purifyes the Heart. And therefore when Chriſt Jeſus our Lord ſent forth his Diſciples to preach and to heal the ſick, he bid them preach, ſaying, <hi>The Kingdom of Heaven is at hand:</hi> And he told the Jews, that the Kingdom of God commeth not with outward obſervation, but that the Kingdom of God was within: And the Apoſtle tells us wherein it doth conſiſt, namely, <hi>in righteouſ<g ref="char:EOLhyphen"/>neſs and peace, and joy in the Holy Spirit. For the Spirit, that comforter adminiſters that joy.</hi> And this is the earneſt of the everlaſting inheri<g ref="char:EOLhyphen"/>tance, and it is the beginning of his Kingdome; into which the Saints witneſſed an entrance for<g ref="char:EOLhyphen"/>merly. <hi>Col.</hi> 1.13. — <hi>who hath
+<pb n="57" facs="tcp:172744:31"/> delivered us from the power of dark<g ref="char:EOLhyphen"/>neſs; and hath tranſlated us into the Kingdome of his dear Son.</hi> And the Apoſtle <hi>Peter</hi> tells us, <hi>how an en<g ref="char:EOLhyphen"/>trance ſhall be miniſtred unto us abun<g ref="char:EOLhyphen"/>dantly into the everlaſting Kingdom of our Lord and Saviour Jeſus Chriſt.</hi> 2 <hi>Pet.</hi> 1. A place of Scripture wor<g ref="char:EOLhyphen"/>thy to be Printed in every ones Heart, ſeeing it teaches an abun<g ref="char:EOLhyphen"/>dant entrance into the Kingdom of God: In which things there writ<g ref="char:EOLhyphen"/>ten the Saints then living were found walking: and yet being of ſo great importance, the Apoſtles care was to put them ſtill in minde of them, that after his deceaſe they might alwayes have them in remem<g ref="char:EOLhyphen"/>brance. I ſhall give you ſome of the words, and leave you to read the reſt in your Books. Peter <hi>writing to thoſe believers who had obtained like precious Faith with him and other A<g ref="char:EOLhyphen"/>poſtles, through the righteouſneſs of God, and our Saviour Jeſus Chriſt,</hi> (note, not through their own right<g ref="char:EOLhyphen"/>ouſneſs, but through the righte<g ref="char:EOLhyphen"/>ouſneſs
+<pb n="58" facs="tcp:172744:32"/> of God and our Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt) <hi>he exhorts them to give all diligence to add to this Faith, vertue; and to vertue, knowledge; and to knowledge, temperance; and to tem<g ref="char:EOLhyphen"/>perance, patience; and to patience, Godlineſs; and to Godlineſs, Bro<g ref="char:EOLhyphen"/>therly kindneſs; and to Brotherly kind<g ref="char:EOLhyphen"/>neſs, love. For if theſe things be in you and abound, they make you, that ye ſhall not be barren (argues</hi> ſlothfull) <hi>nor unfruitfull to the knowledge of our Lord Jeſus Chriſt. But he that lac<g ref="char:EOLhyphen"/>keth theſe things is blinde, and can<g ref="char:EOLhyphen"/>not ſee far off, and hath forgotten that he was purged from his old ſins. Wherefore the rather, Brethren, give diligence to make your calling and ele<g ref="char:EOLhyphen"/>ction ſure: for if ye doe theſe things, ye ſhall never fall, For ſo an entrance ſhall be miniſtred unto you abundantly into the everlaſting Kingdom of our Lord and Saviour Jeſus Chriſt.</hi> Now take notice, that it is not the knowing of theſe things, but the walking in them, that gives an abundant entrance into the King<g ref="char:EOLhyphen"/>dom.
+<pb n="59" facs="tcp:172744:32"/> 
+                  <hi>If ye doe theſe things,</hi> ſaith the Apoſtle.</p>
+               <p>Obj. <hi>Doubtles, It is a happy thing to walk and live in theſe Admonitions of the Apoſtle, may ſome ſay; But who is there, that do ſo? We know but few, if any, that do ſo, then how few enter into the Kingdom, if ſo great and high things are to be lived in?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> For anſwer hereunto con<g ref="char:EOLhyphen"/>ſider theſe things following.</p>
+               <p n="1">1. That there be various ſtations in Religion, and ſo ſome are nea<g ref="char:EOLhyphen"/>rer, and ſome further off from the Kingdom of God. Some are ſeeking it with their faces thitherward, as its ſaid of <hi>Sion:</hi> ſome are weeping and mourning, and hungring, and thirſting after Gods Righteouſneſs. Theſe if they hold on are under a bleſſing and promiſe to be anſwe<g ref="char:EOLhyphen"/>red and filled, and though they be poor in Spirit, yet theirs is the Kingdome, and in due time they ſhall poſſeſſe it, and enter into it. Some are near the Kingdom, as that
+<pb n="60" facs="tcp:172744:33"/> young man was, who had keept the precepts of the Law from his youth, which Chriſt looked upon and lo<g ref="char:EOLhyphen"/>ved, though he was not yet able to enter into the Kingdom, becauſe of his riches. Others are ſet down in the Kingdom, of righteouſneſs, and peace, and joy in Chriſt Jeſus. As the Apoſtles, and many belie<g ref="char:EOLhyphen"/>vers or Saints were in the primitive times. For which they magnifyed the Lord for his rich mercy towards them in raiſing them up, and ma<g ref="char:EOLhyphen"/>king them ſit together in Heavenly places (or Heavenly things) in Chriſt Jeſus. <hi>Eph.</hi> 2.6.</p>
+               <p n="2">2. Now conſider further, that theſe who in earneſt ſeek the King<g ref="char:EOLhyphen"/>dom of God, or are already entred into it, doe not alwayes make the greateſt <hi>ſhew</hi> or <hi>appearance</hi> in the World. They are like that Mer<g ref="char:EOLhyphen"/>cant man that having found treaſure hid in a Field, goeth and hideth it, leſt he ſhould be robbed thereof, and for joy thereof he goeth and ſelleth all he hath and buyeth that
+<pb n="61" facs="tcp:172744:33"/> Field. He boaſteth not of his trea<g ref="char:EOLhyphen"/>ſure, but carefully purchaſeth it. So it is with many that are ſeekers and poſſeſſors of the Kingdome of God; And therefore are not made ſo viſible in the World, though they live in the World. Nay many times the World looks upon them as fooles or conceited People, not ſeeing the Heavenly treaſure which they purſue, or poſſeſſe; but af<g ref="char:EOLhyphen"/>terwards ſhall be made to ſee it to their amazement. Read Wiſdom of <hi>Solomon,</hi> chapter the 5th which ſheweth how the wicked ſhall won<g ref="char:EOLhyphen"/>der at the ſtrangeneſs of the Salva<g ref="char:EOLhyphen"/>tion of the righteous, beyond all that they looked for. Some may be without that in their Books, it be<g ref="char:EOLhyphen"/>ing in the <hi>Apocrypha,</hi> therefore I ſhall here give you part of it, be<g ref="char:EOLhyphen"/>ginning at the laſt verſe of the 4th chap. to the 10th verſe of the 5th. where <hi>Solomon</hi> ſhews the different end of the righteous and wicked. <hi>And when they caſt up the accouts of their ſins, they ſhall come with fear:
+<pb n="62" facs="tcp:172744:34"/> and their own iniquities ſhall convince them to their face. Then ſhall the right<g ref="char:EOLhyphen"/>ous man ſtand in great boldneſs, be<g ref="char:EOLhyphen"/>fore the face of ſuch as have afflicted him, and made no account of his la<g ref="char:EOLhyphen"/>bours. When they ſee it they ſhall be troubled with terrible fear, and ſhall be amazed, at the ſtrangeneſs of his Salvation, ſo far beyond all that they looked for. And they repenting, and groaning for anguiſh of Spirit, ſhall ſay within themſelves, this was he whom we had ſometimes in deriſion, and a proverbe of reproach. We fools ac<g ref="char:EOLhyphen"/>counted his life madneſs, and his end to be without Honour. How is he num<g ref="char:EOLhyphen"/>bred among the Children of God, and his lot is among the Saints? Therefore have we erred from the way of Truth; and the light of righteouſneſs hath not ſhined unto us. We wearied our ſelves in the way of wickedneſs and deſtru<g ref="char:EOLhyphen"/>ction: yea we have gone thorow de<g ref="char:EOLhyphen"/>ſerts, when there lay no way, but as for the way of the Lord, we have not known it. What hath pride profitted us? Or what good hath riches with our
+<pb n="63" facs="tcp:172744:34"/> vaunting brought us? All thoſe things are paſſed away like a ſhaddow, and as a Poſt that haſteth by.</hi> &amp;c. Hence you may ſee how little they are ta<g ref="char:EOLhyphen"/>ken notice of in the World who are Heirs of the Kingdom of God, and how little they are diſcerned to be what they are. And leſt you ſhould think that becauſe theſe words are quoted out of the <hi>Apocrypha,</hi> they have not weight in them, hear <hi>Paul</hi> ſpeaking to the ſame purpoſe. 1 <hi>Cor.</hi> 1.26. &amp;c. <hi>For ye ſee your cal<g ref="char:EOLhyphen"/>ling, Brethren, how that not many wiſe men after the Fleſh, not many mighty, not many Noble are called. But God hath choſen the fooliſh things of the World, to confound the wiſe: and God hath choſen the weak things of the World, to confound the things that are mighty, and baſe things of the World, and things which are de<g ref="char:EOLhyphen"/>ſpiſed, hath God choſen, yea and things which are not, to bring to nought things that are; that no Fleſh ſhould glory in his preſence.</hi> Thus the Lord will confound the thoughts of men,
+<pb n="64" facs="tcp:172744:35"/> and make that laſt which was firſt, and that firſt which was laſt: and that highly eſteemed which was de<g ref="char:EOLhyphen"/>ſpiſed and that deſpiſed which was highly eſteemed. And though the Heirs of his Kingdom be ſcarcely diſcerned in the World, yet will he finde out a numberleſs Number out of all Nations, Kinreds, Peo<g ref="char:EOLhyphen"/>ple and Tongues: that ſhall inhe<g ref="char:EOLhyphen"/>rit it: ſuch as the World takes little notice of, they being a People comming out of great tribulation, in which they have lived, in the World. Therefore let non ſay, <hi>Where ſhall we finde ſuch a People as live in the Kingdom of God: but let them deſire of the Lord that he would open their Eyes, to ſee them, whom he ownes, and admits into his King<g ref="char:EOLhyphen"/>dom.</hi> Read <hi>Revel.</hi> the 7th. <hi>ver.</hi> 9. to the end. The Lord doth put the treaſures of his Kingdom into Ear<g ref="char:EOLhyphen"/>then Veſſels which not being <hi>beau<g ref="char:EOLhyphen"/>tifull</hi> to the outward Eye, are there<g ref="char:EOLhyphen"/>fore overlooked and not ſeen by the curious Eye. As it was ſaid of our
+<pb n="65" facs="tcp:172744:35"/> Lord and Maſter, <hi>there is no beauty in him that we ſhould deſire him,</hi> the ſame alſo may be ſaid of his followers. <hi>But wiſdom is juſti<g ref="char:EOLhyphen"/>fyed of her Children.</hi> Look upon the rough and <hi>withered</hi> or deadlike coat of the Vine, ſpecially in Winter, and one would think it good for little, except to be conſumed by the fire; So are the branches of the true Vine many times to the outward Eye, and therefore not regarded by the World as the ſtrong Oakes and Trees of the forreſt are, or as the loſty <hi>Cedars</hi> of <hi>Libanon</hi> which are ſeen a far off. The Lord had reſerved to himſelf 7 thouſand who had not worſhipped <hi>Baal,</hi> even in the great Apoſtacy of <hi>Iſrael</hi> in <hi>Ahabs</hi> time, whom <hi>Elijah</hi> the Prophet could not ſee. So in the great Apoſtacy of Profeſſed Chriſtianity, the Lord hath a numberleſs Number who are ſealed, who ſtand before the Throne, and before the Lamb, cloathed with white Robes, and Palmes in their hands, glorifying God, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcribing all Salvation to our God which ſit<g ref="char:EOLhyphen"/>eth upon the Throne, and unto the Lamb. As you read in that 7th of <hi>Revel.</hi> Thou that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anſt not ſee a People fit for the Kingdom of God, canſt thou ſee a People that work <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighteouſneſs? The Apoſtle tells us, <hi>that eve<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yone that doth righteouſneſs is born of God.</hi> 1 <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh.</hi> 2.29. <hi>Doſt thou ſee any People dwelling <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a Spirit of love?</hi> The ſame Apoſtle tells <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <hi>that every one that loveth is born of God,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Joh.</hi> 4.7. Another Apoſtle tells us, <hi>that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> every Nation he that feareth God and wor<g ref="char:EOLhyphen"/>keth
+<pb n="66" facs="tcp:172744:36"/> righteouſneſs is accepted of him. Act.</hi> 10.35. The Apoſtle doth not tell us that eve<g ref="char:EOLhyphen"/>ry one that can magnify themſelves in a form of Religion are accepted, but he that worketh righteouſneſs only. There is a Phariſaical Eye which can ſee none righte<g ref="char:EOLhyphen"/>ous but ſuch as are in their <hi>own form:</hi> But God ſeeth not as man ſeeth. There is alſo a prophane and hatefull Eye, which hates the appearance of righteouſneſs and holineſs, becauſe it is a chain to their looſe prophanes and wickedneſs, theſe alſo through the myſt of enmity and hatred cannot ſee the Servants of the living God, over whoſe conſciences he rules, and ſo hath a King<g ref="char:EOLhyphen"/>dom there, and they in it, ſubmitting to his requirings as true Subjects. Therefore I ſay, though the Kingdom of God be a gloryous Kingdom, yet hath he many Sub<g ref="char:EOLhyphen"/>jects belonging to it, ſome in it, and ſome preſſing hard after it, ſome going mourn<g ref="char:EOLunhyphen"/>ing and full of heavyneſs not accounting themſelves worthy of it, but yet longing after it: and the glory of his Kingdom be<g ref="char:EOLhyphen"/>ing inward the purblinde Worldly Eye ſee it not. For who of them would think that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poor ſhatter'd creature, full of heavyneſs<g ref="char:punc">▪</g> and of a drooping Spirit, and it may be ſore<g ref="char:EOLhyphen"/>ly exerciſed with outward afflictions and wants, and hath no pleaſant carriage i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Eye, that ſuch a one belongs to the Kingdom of God? And yet our Lord pro<g ref="char:EOLhyphen"/>nounces ſuch poor ones in Spirit to be bleſ<g ref="char:EOLhyphen"/>ſed, and ſaith, <hi>their's is the Kingdom o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God.</hi>
+               </p>
+               <pb n="67" facs="tcp:172744:36"/>
+               <p>Obj. <hi>But it may be ſome will ſtill object, that though theſe things be true, yet we doe not ſee Chriſtians ariſe to that Vigor of Chri<g ref="char:EOLhyphen"/>ſtianity, and joy and pace, as they did in the primitive times, nor ſo quickly receive peace and comfort as they did then; What's the rea<g ref="char:EOLhyphen"/>ſon of that, if the ſame Heavenly ſtate be at<g ref="char:EOLhyphen"/>tanable now as was then attained unto by be<g ref="char:EOLhyphen"/>lievers?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> For Anſwer hereunto, conſider that there was a myſtery of iniquity to ariſe under the formal part of Chriſtianity: and that this myſtery was to overſpread Na<g ref="char:EOLhyphen"/>tions, Tongues, Multitudes, Peoples, and ſit upon theſe Waters: for ſo they are called. And that under this myſtery a bot<g ref="char:EOLhyphen"/>tomleſs Pit <hi>was to be opened,</hi> out of which a ſmoke aroſe and darkened the Sun in the Firmament. Now this myſtery is the height of wickedneſs under the profeſſion of Chri<g ref="char:EOLhyphen"/>ſtianity. To act the Devils part in the name of Chriſt: and that makes it a myſtery. To teach traditions of men and their inven<g ref="char:EOLhyphen"/>tions for precepts of Chriſt, which was al<g ref="char:EOLhyphen"/>wayes call'd whoredom among the Jews, and is ſo among Chriſtians. To teach lyes in Hypocriſie, to teach Murther as a pre<g ref="char:EOLhyphen"/>cept of Chriſt, as all Perſecutors who pro<g ref="char:EOLhyphen"/>feſſe Religion muſt doe: this is to hold out the Devils work in the name of Chriſt. Now ſuch Apoſtacy as this, and teaching <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch things, they darken the Sunſhine of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he gloryous Goſpel of our Lord Jeſus Chriſt: <hi>And God will not give his glory to
+<pb n="68" facs="tcp:172744:37"/> another (then Christ) nor his praiſe to graven Images,</hi> nor mens curious imaginations, or traditions. And therefore the gloryous beams of the Goſpel being obſcured by ſuch things, the Heavenly warmth and refreſh<g ref="char:EOLhyphen"/>ing thereof hath not ſo ſpeedily, nor fully darted into mens Spirits, to raiſe them up ſo powerfully it may be and ſo quickly into the enjoyment of that peace and joy that paſſes underſtanding. But yet God hath not left himſelf without witneſſes to bear Teſti<g ref="char:EOLhyphen"/>mony to the Truth of the joyfull tydings of Salvation by Faith in Chriſt: and he will raiſe up ſtill m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, as the myſtery of ini<g ref="char:EOLhyphen"/>quity conſumes. <hi>What think ye of thoſe that love not their lives unto death, warring againſt the myſtery of iniquity?</hi> Who expoſe their lives and all they have to the fury and rage of men, rather then enſnare their conſcien<g ref="char:EOLhyphen"/>ces with the vain traditions of men. Thus <hi>Michael</hi> and his Angels feight by ſuffering: And the Dragon and his Angels by inflict<g ref="char:EOLhyphen"/>ing. Therefore ſeeing the myſtery of ini<g ref="char:EOLhyphen"/>quity is to be overcome by ſuch warrs as theſe, Chriſt Jeſus our Lord and Captain wants not his valiant Souldiers to encoun<g ref="char:EOLhyphen"/>ter with the Dragon and his Champions, even under the Apoſtacy into the myſtery. The Dragon feights but prevails not againſt the Lords hoaſt. Now do not think that its a ſmall matter that makes men ſo reſolute and venterous, thus to expoſe their lives. No, its for no leſſe then a Kingdom, either already in poſſeſſion of, or in view to be
+<pb n="69" facs="tcp:172744:37"/> attained. But theſe things being Spiritual, are not diſcerned by the carnal Eye. And ſo the Subjects of Chriſts Kingdom, whether they be in real poſſeſſion of it, or in earneſt purſuite of it, are little ſeen by the World, although many belong thereunto.</p>
+               <p>Obj. <hi>But one Objection more may ſeem very material and weighty to many: namely thus. In this Treatiſe of Eſſential Christianity, why is there no mention made of</hi> Baptiſm, <hi>and the</hi> Lords Supper, <hi>and of</hi> Preaching the Word and Prayers? <hi>Are not theſe Eſſential things in Chriſtianity? And why are theſe left out?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I anſwer, I do not leave them out in oppoſition to them, but becauſe, firſt, they are not ſo inſeparable to the Kingdom of Chriſt, as that there is no enjoyment thereof without theſe, eſpecially as they are under the Apoſtacy adminiſtred. Se<g ref="char:EOLhyphen"/>condly becauſe theſe may all be profeſſed and taken up by perſons who are workers of iniquity, and not owned by our Lord Jeſus Chriſt: even by men who live in open wickedneſs, and therefore are not admitted into his Kingdom becauſe they are Baptiſed, or receive the Supper or frequent publique Prayers, or are Preachers of the Scriptures. <hi>Paul</hi> ſpeaks the ſame thing to a Baptized Church, who alſo had the Supper of the Lord in practice among them, and who came behind in no gift. Yet notwithſtand<g ref="char:EOLhyphen"/>ing all theſe things he ſets this caution be<g ref="char:EOLhyphen"/>fore their Eyes to ponder on: <hi>Know ye not</hi> (ſaith he) <hi>that the unrighteous ſhall not in<g ref="char:EOLhyphen"/>herit
+<pb n="70" facs="tcp:172744:38"/> the Kingdom of God? Be not deceived neither Fornicators, nor Idolaters, nor Adul<g ref="char:EOLunhyphen"/>terers, nor effeminate, nor abuſers of them<g ref="char:EOLunhyphen"/>ſelves with mankinde, nor Thieves, nor cove<g ref="char:EOLunhyphen"/>tous, nor drunkards, nor revilers, nor ex<g ref="char:EOLunhyphen"/>tortioners, ſhall inherit the Kingdom of Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 1 <hi>Cor.</hi> 6.9, 10. This he ſpeaks to ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did wrong, and defrauded their Brethren<g ref="char:punc">▪</g> Laying before them the danger of ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> courſes if they ſhould fall back again to ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> things: and return with the Dog to t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vomit, and like the Sow to her wallowin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the mire. Hence it is that we are admo<g ref="char:EOLunhyphen"/>niſhed to turn away from ſuch as have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>form of Godlineſs</hi> (as men that profeſſe the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> things, namely <hi>Baptiſm,</hi> the <hi>Lords Suppe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> publique Prayers and Preaching, may have but deny the power thereof. <hi>Simon Mag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was Baptized, and yet was in the Gall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bitterneſs, and bond of iniquity <hi>Act.</hi> 8.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one may eat and drink the Lords Suppe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>without profit to themſelves:</hi> yea <hi>they m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eat and drink judgment to themſelves,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> guilty of the body and blood of the Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 <hi>Cor.</hi> 11. And for Prayers, men ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> make many Prayers, and long Prayers and yet be no better then the Phariſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or the Jews of old who honoured the Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with their lips, while as their Heart wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> far from him. And Chriſt himſelf hath fore<g ref="char:EOLunhyphen"/>told that many ſhall plead for themſelve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thus, <hi>Lord, Lord, have we not Prophecy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in thy name?</hi> &amp;c. Yet he will anſwer them <hi>I never know you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, depart from me, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="71" facs="tcp:172744:38"/> that work iniquity.</hi> Now here's a form of Godlineſs lyes in theſe things, namely, in being Baptized, and frequenting Prayers, and Preaching and the Lords Supper, but ſeeing one may live in theſe and yet be far from the Kingdom of God, therefore I have not placed theſe things among thoſe that are eſſential to that life that enters the Kingdom, although theſe things rightly uſed, and at the Lambs requirings may be <hi>refreſhing helps,</hi> to thoſe who in ſincerity of Heart, and ſimplicity of conſcience do walk therein. There is a Baptiſm indeed and a Supper which are eſſential to the Kingdom of Chriſt, but thoſe are couched under other things before ſpoken, yet for more plaineſs I ſhall here expreſſe them more particularly. <hi>Peter</hi> tells us of a Baptiſm that ſaves us; and that muſt needs be eſſential. 1 <hi>Pet.</hi> 3.21. <hi>The like Figure whereunto, even Baptiſm, doth alſo now ſave us (not the put<g ref="char:EOLhyphen"/>ting away of the filth of the Fleſh, but the anſwer of a good conſcience towards God) by the reſurrection of Jeſus Christ.</hi> This indeed is eſſential, namely, <hi>the anſwer of a good conſcience towards God;</hi> which is a Baptiſm indeed and which is a Fruit of righteouſ<g ref="char:EOLhyphen"/>neſs. For they that by an ungodly and wic<g ref="char:EOLhyphen"/>ked life make Shipwrack of Faith, they thereby beget in themſelves an evil and ac<g ref="char:EOLhyphen"/>cuſing conſcience, although they be out<g ref="char:EOLhyphen"/>wardly Baptized: and ſo its not that that ſaves, but the anſwer of a good conſcience by the reſurrection of Jeſus Chriſt. So there
+<pb n="72" facs="tcp:172744:39"/> is a Supper alſo which is eſſential to the Kingdom of Chriſt: which our Lord him<g ref="char:EOLhyphen"/>ſelf ſpeaks of, <hi>Rev.</hi> 3.20. <hi>Behold I ſtand a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Door and knock: if any man hear my voyce and open the Door, I will come in to him, and ſup with him, and he with me.</hi> This is a Sup<g ref="char:EOLhyphen"/>per that is eſſential. Here's joy and conſola<g ref="char:EOLhyphen"/>tion in this Supper, and ſweet communion with the Lord. This was writ to a Church who were Baptized with outward Baptiſm, and had the outward Supper and other <hi>Ordi<g ref="char:EOLhyphen"/>nances,</hi> as we may well preſume they had, as well as other Churches: and eſpecially becauſe they thought themſelves rich in ſuch things, and increaſed with goods hav<g ref="char:EOLhyphen"/>ing need of nothing; which blinded their Eyes, ſo that they knew not that they were wretched, and miſerable, and poor, and blind, and naked. And ſo the reſt of the Churches of <hi>Aſia,</hi> they were all in Church fellowſhip, enjoying the outward Ordi<g ref="char:EOLhyphen"/>nances; but that was not enough. For they were gathered in thither, as into a nurſery or Garden, to the end, they ſhould grow up in grace, and bring forth good Fruit unto God. So there is a prayer, that is eſ<g ref="char:EOLhyphen"/>ſential, and hath communion with God. <hi>viz.</hi> When in the Spirit we worſhip God: and when the Spirit maketh interceſſion in us according to the will of God. There is alſo Preaching, or a holding forth of Truth which is eſſential, when the Lord requi<g ref="char:EOLhyphen"/>res it, whether it be by a righteous life, or by bearing Teſtimony to the Truth. But
+<pb n="73" facs="tcp:172744:39"/> theſe things <hi>I leave out</hi> which the Worldly Spirit may cloath it ſelf with all: and un<g ref="char:EOLhyphen"/>der that Cloak live wickedly, yea and hate the life and power of Chriſtianity, as may be done under a verbal profeſſion of the <hi>new Covenant,</hi> as well as under the Old, when the falſe Prophets and ſuch as adhered to them perſecuted the true Prophets. And yet though they were Perſecutors of the true, they brought Oblatious to God, and burnt incenſe to him, and kept ſolemn meetings, and faſts, and came as a People that delighted to draw near unto the Lord, and made many Prayers to him: and their Hearts in all this far from him: and ſo may it be now: and therefore ſuch things I omit, and point at ſuch things as wherein a Soul drawes near to God, and is approved of God, and in which he comes to ſome en<g ref="char:EOLhyphen"/>joyment of Spiritual bleſſings, and by de<g ref="char:EOLhyphen"/>grees comes into poſſeſſion of the Kingdom of God in Chriſt Jeſus. The things wherein a man walks with God, and follows the Lamb, whether into <hi>external obſervances or out of them,</hi> thoſe I would here compre<g ref="char:EOLhyphen"/>hend. For there may be a following of him out of ſome things that the evil Spirit may take up, as well as into them. The Scrip<g ref="char:EOLhyphen"/>ture leaves us not without examples and ground hereof. The Br<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en Serpent ſet up by Gods own inſtitution, and which was an eminent Type of Chriſt, yet after the uſe of it was over, and the People ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e an Idol of it, and ſo went a whoring after the
+<pb facs="tcp:172744:40" rendition="simple:additions"/> ſhaddow, and forgot the ſubſtance, and their Hearts were removed far from the Lord; that good King <hi>Hezechiah,</hi> who walk't before the Lord with a perfect Heart, he cauſed it to be broken to pieces, and put an end to it. 2 <hi>King.</hi> 18.4. The Lord did alſo command circumciſion very ſtricktly, ſo that the Seed of <hi>Abraham</hi> muſt needs be circumciſed and this called an <hi>Ordi<g ref="char:EOLhyphen"/>nance for ever:</hi> Yet when the fulneſs of time was come, that the ſubſtance of all the ſhad<g ref="char:EOLhyphen"/>dowes took place in their ſtead, then ſayes one Apoſtle, <hi>behold I ſay unto you, that if ye be circumciſed Chriſt ſhall profite you no<g ref="char:EOLhyphen"/>thing. Gal.</hi> 5.2. This was a hard leſſon to ſome and eſpecially to ſuch who were zea<g ref="char:EOLhyphen"/>lous of Gods ordinances, yea even to many who believed in Chriſt. Now the Scripture tells us of a falling away, from God unto all wickedneſs, and of retaining a form of Godlineſs ſtill to cover all that, and of a myſtery of iniquity to be revealed, and yet he that ſhall heed that myſtery, ſhall have his ſeat in the Temple of God, that is were Gods Ordinances have their place by right: but iniquity working under this profeſſion of theſe things, makes that a myſtery, which otherwiſe is open-faſt wickedneſs: only it hides it ſelf under a profeſſion and deſtructive zeal againſt neglecters of its form. Now in this caſe I ſay, there may be a following of the Lamb, even out of thoſe obſervances of his which once were commanded. But I do not urge this except
+<pb n="75" facs="tcp:172744:40" rendition="simple:additions"/> he lead. And if he lead, and go before them, then ſhall his followers have peace, and a ſecret witneſs in themſelves, although they meet with oppoſition from others; Which they are likely to doe in following the Lamb: for its him that the evil Spirit per<g ref="char:EOLhyphen"/>ſecutes by his Servants, in whom he rules. And this is a great Teſtimony, that its one <hi>great ordinance</hi> of Chriſt, for his People to come out <hi>of falſe</hi> and corrupted worſhips, after the myſtery of iniquity hath abuſed them, becauſe the perſecution lyes moſt thereupon; if not altogether. The Papiſts, they perſecute becauſe People relinquiſh their form: the Epiſcopal, the Preſbyte<g ref="char:EOLhyphen"/>rian, <hi>&amp;c.</hi> they all do the like. Though a man be juſt and upright in his converſation, yet if he draw from their form, they hate, they revile, they perſecute, at leaſt with the Tongue. And why is this? But becauſe they follow the Lamb, who ſaith, in their Spirits, <hi>Come out of her my People.</hi> I'ts he that goes before his true followers, and leads them out gently, and therefore ſaith come out. And this comming out I ſay, is a great ordinance of Chriſt, in the diſco<g ref="char:EOLhyphen"/>very and diſſolution of all corrupted wor<g ref="char:EOLhyphen"/>ſhips. And the followers of Chriſt herein are dignifyed with this Honour, that its ſaid of them, <hi>theſe are they which follow the Lamb whitherſoever he goes.</hi> But note, they are ſuch as truely follow the Lamb, in whoſe mouth is found no guile. If they ſhall turn from corrupted worſhips, and retain ſtill
+<pb n="76" facs="tcp:172744:41"/> their corrupted Hearts, and ſo follow the <hi>Wolf,</hi> the <hi>Lyon,</hi> the <hi>Bear,</hi> the <hi>Fox,</hi> and ſuch devouring creatures, or the <hi>Dog</hi> or <hi>Sow,</hi> thoſe dirty creatures, their forſake<g ref="char:EOLhyphen"/>ing this or that form or way of worſhip will not profite them. They are followers of the innocent harmleſs Lamb, not of Beaſts of prey, or ravenous hurtfull creatures. They follow the Lamb whitherſoever he goes: which ſeems to imply various removes in the Lambs leading of them, or going be<g ref="char:EOLhyphen"/>fore them. As there was various removes or journings in the Wilderneſs, out of <hi>Egypt</hi> literal towards the Earthly <hi>Canaan,</hi> ſo may there be, out of <hi>Egypt</hi> Spiritual to the Hea<g ref="char:EOLhyphen"/>venly <hi>Canaan:</hi> for things under the Law were Typical, ſhaddowing out ſomething Spiritual. Now under that word Lamb is pointed out to us the guide in thoſe journ<g ref="char:EOLhyphen"/>ings: even the Lamb and his nature, as the Pillar of Fire, and Cloud was the guide in the Wilderneſs. Therefore i'ts ſafe kee<g ref="char:EOLhyphen"/>ping to the unhurtfull Lamb, and to go where his Nature accompanies: That's the Standart to which his Travelling following Subjects do reſort. And though ſome that ſet forward out of <hi>Egypt</hi> ſpiritual, turn back in their hearts, or murmor and through un<g ref="char:EOLhyphen"/>belief faint and fall in the way, yet the Lamb holds on his way, and followers he hath that go throw with him, whitherſoe<g ref="char:EOLhyphen"/>ver he goes. Whether it be out of the <hi>Egyp<g ref="char:EOLhyphen"/>tian</hi> Societies, or into a Wilderneſs, throw the red Sea, or to warr againſt the uncir<g ref="char:EOLhyphen"/>cumciſed
+<pb n="77" facs="tcp:172744:41"/> Philiſtins, who provoke the Lord by their Idolatry and wickedneſs: But not with carnal Weapons. but with Spiritual. The followers of the Lamb have piercing Weapons, and yet not carnal, and ſo hath their Captain, of whom it is ſaid, <hi>Ride on proſperouſly becauſe of Truth, meekneſs and righteouſneſs, and thy right hand ſhall teach thee terrible things</hi> (terrible things in meek<g ref="char:EOLhyphen"/>neſs) <hi>thine Arrows ſhall be ſharp in the Heart of the Kings Enemies. Michael</hi> and his An<g ref="char:EOLhyphen"/>gels and followers finde oppoſition from the <hi>Dragon</hi> and his Angels and followers: and they both feight: The <hi>Dragon</hi> and his fol<g ref="char:EOLhyphen"/>lowers with carnal Weapons to ſtop the way of the Lamb and his followers, leſt they ſhould invade his Kingdome of darkneſs and deſtruction: And on the other hand, the Lamb and his followers they feight with other Weapons even with meekneſs, and the word of Truth, to make good their way that they may hold on to follow the Lamb. Thus the Lamb leads on his Army forward out of the World, that is out of the Worlds evil wayes and corrupted wor<g ref="char:EOLhyphen"/>ſhips: But whether or no he <hi>lead into that which is outwardly to be ſet up as yet, I leave to further diſcovery.</hi> I mean whether that which is to continue is as yet to be ſet up, that I leave: But that there may be pitch<g ref="char:EOLhyphen"/>ing of Tents for a Seaſon even in a Journey, thats manifeſt from the Journeys of the <hi>Iſraelites</hi> in the Wilderneſs; who pitched their Tents till the cloud went forward,
+<pb n="78" facs="tcp:172744:42"/> and then there was danger in remaining behinde in their pitched Tents. <hi>There is a Seed will underſtand what I ſay.</hi>
+               </p>
+               <p>There is one thing yet behinde to be ſpo<g ref="char:EOLhyphen"/>ken to, which tends greatly to the keeping of our mindes and affections alive, and in purſuite of an everlaſting inheritance: and that is <hi>Hope. Faith believes the love of God.</hi> And from hence <hi>Hope</hi> waites for good things not yet ſeen: <hi>For we are ſaved by Hope</hi> (ſaith the Apoſtle) <hi>but Hope that is ſeen is not Hope: For what a man ſeeth, why doth he yet hope for? But if we hope for that we ſee not, then do we with patience wait for it. Rom.</hi> 8.24, 25. Hope you ſee is one in<g ref="char:EOLhyphen"/>gredient tending to eternal life: and a principal piece of Spiritual Armor, bearing up the head in purſuite of the Kingdom of God, againſt all the Oppoſition met with in the World. Therefore i'ts called, <hi>the Helmet of Salvation. Eph.</hi> 6.17.</p>
+               <p>There be divers things to be conſidered concerning this <hi>Hope:</hi> and the ground of it, whereupon our hope is placed: that ſo it may be as an Anchor ſure and ſtedfaſt to keep us ſafe in the waves and billowes of the tribulations of this World.</p>
+               <p n="1">1. The firſt thing is this. That there ſhall be a Reſurrection of all, for if there be no Reſurrection, our hope is vain, and hath no ground to ſtand upon: and we are of all men moſt miſerable, if in this life only we have hope in Chriſt: as the Apo<g ref="char:EOLhyphen"/>ſtle ſaith. 1 <hi>Cor.</hi> 15.19. Therefore for the
+<pb n="79" facs="tcp:172744:42"/> confirmation of this ground for the ſure An<g ref="char:EOLhyphen"/>chor of hope, and for reviving of your re<g ref="char:EOLhyphen"/>membrance thereof, let us call to minde ſome paſſages of the Scripture, and the Teſtimony of Chriſt and his Holy Apoſtles concerning this thing,</p>
+               <p>And firſt of all conſider the Reſurrection of Chriſt: who is ſaid to be the firſt Fruits in the Harveſt. 1 <hi>Cor.</hi> 15.23. <hi>Now if Chriſt be preached, that he roſe from the dead, how ſay ſome among you, that there is no reſurre<g ref="char:EOLhyphen"/>ction of the dead? ver.</hi> 12. His reſurrection neceſſarily proves our reſurrection: for he needed not for himſelf to have taken our nature upon him, and to be made like us in all things (except ſin) but it was for our ſakes that he took to himſelf our nature, that he might prepare it, and bring it back again, and that with advantage into the happy union and fellowſhip of our Maker, out of all that death hath involved us in: both out of ſin, and out of the Graves. And therefore according to theſe two deaths, there is a twofold reſurrection ſpo<g ref="char:EOLhyphen"/>ken of by Chriſt. <hi>Joh.</hi> 5. That there is a death in ſin is manifeſt. <hi>Eph.</hi> 2.1. <hi>You hath he quickened who were dead in treſpaſſes and ſins.</hi> Now of a reſurrection out of this death Chriſt ſpeaks. <hi>Joh.</hi> 5.25. <hi>Verely, verely, I ſay unto you, the hour is comming and now is, when the dead ſhall hear the voyce of the Son of God: and they that hear ſhall live.</hi> And this is that reſurrection that <hi>Paul</hi> ſpeaks of, <hi>Col.</hi> 3.1. <hi>If ye then be riſen with
+<pb n="80" facs="tcp:172744:43"/> Chriſt ſeek thoſe things which are above;</hi> and in ſome other places this is called a reſur<g ref="char:EOLhyphen"/>rection. But then beſides this reſurrection out of ſin, there is a reſurrection alſo out of the Graves, when the Sea ſhall give up its dead that are in it, and Death and Hell ſhall deliver up the dead that are in them, and all graves ſhall be opened, and ſhall render up their dead. And of ſuch a reſur<g ref="char:EOLhyphen"/>rection alſo Chriſt ſpeaks in the forenamed place, <hi>Joh.</hi> 5.28, 29. <hi>Marvel not at this:</hi> (ſaith he, that is, that men ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow hear the voyce of the Son of God, and they that hear ſhall live) <hi>for the hour is comming, in the which all that are in the graves ſhall hear his voyce, and ſhall come forth; they that have done good unto the reſurrection of life, and they that have done evil unto the reſurrection of damnation.</hi> The firſt of theſe reſurrections, namely out of the death of ſin, is a mar<g ref="char:EOLhyphen"/>vellous work of God, wrought by the voyce of the Son of God in the Heart. But Chriſt Jeſus ſeemes to make the other reſurrection which is to be general out of the graves, to be more marvellous. Secondly, the firſt of theſe reſurrections, is in order to bring men to live the life of righteouſneſs: but the ſecond or general reſurrection is after <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey have done good to give them their re<g ref="char:EOLhyphen"/>ward. The firſt is only a raiſing up to life. The ſecond is a raiſing up of ſome to life: and of others to condemnation, according as they have done good or evil in their life time. For we muſt know, that this is after
+<pb n="81" facs="tcp:172744:43"/> men have done good, or done evill; that is, at the laſt day, which our Saviour of<g ref="char:EOLhyphen"/>ten mentions for the comfort of the righte<g ref="char:EOLhyphen"/>ous who are before hand raiſed up to life by him. <hi>Joh.</hi> 6.39, 40, 44, 54. <hi>And this is the Fathers will which hath ſent me, that of all which he hath given me, I ſhould loſe nothing, but ſhould raiſe it up again at the last day. And this is the will of the Father that ſent me, that every one which ſeeth the Son, and believeth on him, may have everlaſting life, and I will raiſe him up at the laſt day.</hi> Again, <hi>No man can come unto me, except the Father which ſent me draw him, and I will raiſe him up at the laſt day.</hi> Again ſaith he. <hi>Who ſo eateth my Fleſh and drinketh my Blood, hath eternal life, and I will raiſe him up at the laſt day.</hi> This is not a raiſing up out of the death o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin unto life: but a raiſing up again of thoſe that before hand have eternal life. And this is ſpoken for the comfort of all ſuch; as al<g ref="char:EOLhyphen"/>ſo many other comfortable words are left upon record for ſuch: which alſo clearly hold forth this Doctrine of the general re<g ref="char:EOLhyphen"/>ſurrection. Take this one place for conclud<g ref="char:EOLhyphen"/>ing of this particular. 1 <hi>Theſſ.</hi> 4:13. to the end of the Chapter. <hi>But I would not have you ignorant Brethren, concerning them which are a ſleep, that ye ſorrow not as others that have no hope. For if we believe that Jeſus dyed and roſe again, even ſo them alſo which ſleep in Jeſus, will God bring with him. For this we ſay unto you by the word of the Lord, that we which are alive, and remain unto the com<g ref="char:EOLhyphen"/>ming
+<pb n="82" facs="tcp:172744:44"/> of the Lord, ſhall not prevent them which are a ſleep. For the Lord himſelf ſhall deſcend from Heaven with a ſhout, with the voyce of the Archangel, and with the Trumph of God, and the dead in Chriſt ſhall riſe firſt: Then we which are alive, and remain ſhall be caught up together with them in the clouds, to meet the Lord in the Ayre: and ſo ſhall we ever be with the Lord. Wherefore, comfort one an<g ref="char:EOLhyphen"/>other with theſe words.</hi> Here he calls the death of believers a ſleep, as Chriſt ſaid of <hi>Lazarus,</hi> he ſleepeth, when he was dead, and its frequently ſaid in the Old Teſta<g ref="char:EOLhyphen"/>ment, ſuch a one ſleept with his Fathers, when he was dead. Death is but as a ſleep out of which men muſt riſe again: there<g ref="char:EOLhyphen"/>fore ſorrow not (ſaith the Apoſtle) as others that have no hope. For if Jeſus dyed, and roſe again, even ſo them alſo which ſleep in Jeſus will God bring with him. And further the Apoſtle here deſcribes the order of the reſurrection. <hi>The dead in Chriſt ſhall riſe firſt, and with them ſuch believers (or Servants of Christ) as are then alive, ſhall be caught up together with them in the Clouds, to meet the Lord in the Ayre: and ſo ſhall we ever be with the Lord.</hi> Now comfort one an<g ref="char:EOLhyphen"/>other herewith ſaith the Apoſtle. <hi>Here is a ſtedfaſt ground for Hope to Anchor upon.</hi> One thing he expreſſes in the 1 <hi>Cor.</hi> 15. which is here paſſed over concerning them that are alive at that day; namely they ſhall not dye, but they ſhall be changed, in a mo<g ref="char:EOLhyphen"/>ment, in the twinkling of an Eye: for this
+<pb n="83" facs="tcp:172744:44"/> mortal muſt put on immortality: and the natural body muſt be made a Spiritual body, I have ſpoken the more of this, becauſe al<g ref="char:EOLhyphen"/>though the common notion hereof is retai<g ref="char:EOLhyphen"/>ned among People, yet the lively ſence of theſe things, is to much buryed and out of minde. For ſurely if men did ſeriouſly me<g ref="char:EOLhyphen"/>ditate hereof, it would have a weighty in<g ref="char:EOLhyphen"/>fluence upon their lives and converſations, to make them inoffencive in the World.</p>
+               <p>Another thing collateral with this, is, <hi>that as there ſhall be a reſurrection of all, ſo there ſhall be a day of judgment for all: when every man ſhall receive according to the things done in the body, whether good or bad.</hi> It may be ſome will ſay, this is rather a ground of fear, then a ground of hope. True it is ſo, to them who take pleaſure in iniquity, and are ſtrangers to Chriſt Jeſus, and to a righteous life. But to thoſe that are inno<g ref="char:EOLhyphen"/>cent in the World, and believe in Chriſt, and meet with afflictions and tribulations here, it is a moſt comfortable ground of Hope. <hi>For our light affliction which is but for a moment worketh for us a more exceeding and eternal weight of glory.</hi> But before we ſpeak more of it ſee firſt how certainly it is groun<g ref="char:EOLhyphen"/>ded upon Scripture; that there ſhall be <hi>a day of judgment. Act.</hi> 17.30, 31. <hi>The times of this ignorance God winked at, but now commandeth all men every where to repent? Becauſe he hath appointed a day in the which he will judge the World in righteouſneſs, by that man whom he hath ordained: whereof he hath
+<pb n="84" facs="tcp:172744:45"/> given aſſurance unto all men, in that he hath raiſed him from the dead.</hi> Hence its plainly held forth, that the raiſing of Chriſt from the dead, is a ſure Teſtimony to all men, that God will in an appointed day, by him judge the World, and that in righteouſneſs. For every man ſhall receive according to his deeds done in the body, whether good or evil. Again the Apoſtle <hi>Paul</hi> tels us of a day of wrath, and righteous judgment of God. <hi>Rom.</hi> 2.5. and ſo forward. <hi>But thou after thy hardneſs and impenitent Heart trea<g ref="char:EOLhyphen"/>ſureſt up unto thy ſelf wrath againſt the day of wrath, and day of the revelation of the righte<g ref="char:EOLhyphen"/>ous judgment of God. Who will render to every man according to his deeds: to them who by patient continuance in well-doing ſeek for glo<g ref="char:EOLhyphen"/>ry, and honour, and immortality</hi> (to them he will render) <hi>eternal life: But unto them that are contentious, and do not obey the Truth but obey unrighteouſneſs,</hi> (to them) <hi>indignation and wrath.</hi> Then he goes over with it again, <hi>ver.</hi> 9, 10. <hi>Tribulation and anguiſh upon every Soul of man that doth evil, of the Jew firſt, and alſo of the Gentile: But glory, honour and peace, to every man that worketh good, to the Jew firſt, and alſo to the Gentile.</hi> Again minde what our Saviour Jeſus Chriſt ſaid to his twelve Diſciples when he ſent them forth with power to preach or publiſh, the Kingdom of Heaven to be at hand, and therefore to call them to repentance, and to heal the ſick, and caſt out Devils, <hi>&amp;c.</hi> ſaith he, <hi>whoſoever ſhall not receive you, nor
+<pb n="85" facs="tcp:172744:45"/> hear your words, when ye depart out of that Houſe, or City, ſhake off the duſt of your feet. Verely I ſay unto you, it ſhall be more tolerable for the Land of</hi> Sodom <hi>and</hi> Gomor<g ref="char:EOLhyphen"/>rah <hi>in the day of judgment then for that City. Matth.</hi> 10.14, 15. The like expreſſion he uttered concerning <hi>Chorazin</hi> and <hi>Bethſaida</hi> in the next Chap. <hi>viz. Chap.</hi> 11.21, 22. Be<g ref="char:EOLhyphen"/>cauſe they repented not when they ſaw the mighty works which he had done in them. <hi>It ſhall be more tolerable</hi> (ſaith he) <hi>for</hi> Tyre <hi>and</hi> Sidon <hi>at the day of judgment, then for you.</hi> Hence its plain, <hi>that there's a day of judgment yet to come for thoſe Cities that have been ſo long ſince deſtroyed.</hi> And that it ſhall be more tolerable for them at that day, then for thoſe that have had more means of knowledge and true underſtanding afforded them, and yet caſt it behinde their backs, and remain impenitent. This being rightly conſidered may make the ſtouteſt Heart to tremble, who goes on in the paths of wic<g ref="char:EOLhyphen"/>kedneſs, as it did <hi>Felix. Act.</hi> 24.25. <hi>As</hi> Paul <hi>reaſoned of righteouſneſs, temperance, and judgment to come,</hi> Felix <hi>trembled:</hi> or was made fearfull, ſtruck with fear. For he that is to judge is no reſpecter of Per<g ref="char:EOLhyphen"/>ſons, and hath all power given him in Hea<g ref="char:EOLhyphen"/>ven and in Earth: and from him can none flee for ſhelter: Therefore to the unrighte<g ref="char:EOLhyphen"/>ous and ungodly that day is terrible. But to the upright in Heart, who in ſincerity and Truth deſire to pleaſe the Lord in walking obediently before him, in a good conver<g ref="char:EOLhyphen"/>ſation,
+<pb n="86" facs="tcp:172744:46"/> and innocent in the World, to them the day of judgment is a ground of Hope. Why? Becauſe they ſhall receive good at the hands of the Lord: <hi>He will appear to their comfort.</hi> Judge you, how comfortable a thing it ſhall be at the laſt day to the righteous and mercifull, when Chriſt ſhall ſay to them, <hi>come ye bleſſed of my Father inherit the Kingdom prepared for you from the foundation of the World. Matth.</hi> 25. But be<g ref="char:EOLhyphen"/>cauſe that portion of Scripture doth ſo emi<g ref="char:EOLhyphen"/>nently ſet forth the day of judgment, with ſome remarkable circumſtances thereof, let us view it a little more fully; in the pre<g ref="char:EOLhyphen"/>paration to it, and alſo in the matter of fact upon which judgment is to paſſe; and the Sentence of judgment it ſelf. The prepara<g ref="char:EOLhyphen"/>tion is this. <hi>The Son of man ſhall come in his glory, and all the Holy Angels with him, and ſhall ſit upon the Throne of his glory. ver.</hi> 31. there's the preparation of the judge. <hi>And before him ſhall be gathered all Nations. ver.</hi> 32. there's the preparation of the People to be judged. <hi>And he ſhall ſeparate them one from another, as a Sheepherd divideth his Sheep from the Goats, and he ſhall ſet the Sheep on his right hand, but the Goats on the left.</hi> Here now is his ſecret judgment of them in himſelf who knowes the wayes and thoughts and Hearts and lives of all men. Then follows his open expreſſed ſentence of judgment upon them. Firſt to thoſe on his right hand, this comfortable ſentence, <hi>come ye bleſſed of my Father inherit the King<g ref="char:EOLhyphen"/>dom
+<pb n="87" facs="tcp:172744:46"/> prepared for you from the foundation of the World. ver.</hi> 34. And then he gives the reaſon of this his righteous judgments. <hi>For</hi> (ſaith he) <hi>I was an hungred, and ye gave me meat: I was thirſty, and ye gave me drink: I was a ſtranger, and ye took me in, I was na<g ref="char:EOLhyphen"/>ked, and ye cloathed me: I was ſick and ye viſited me: I was in priſon and ye came unto me.</hi> Then ſhall the righteous anſwer, <hi>Lord when ſaw we thee ſo and ſo, or did ſo unto thee?</hi> Take notice! Their ſentence or judg<g ref="char:EOLhyphen"/>ment of matter of fact runs wholy upon <hi>Acts of mercy</hi> which by them were not had in re<g ref="char:EOLhyphen"/>membrance, or at leaſt little ſet by, for they had herein minded the Counſel of Chriſt, in not letting their left hand know, what the right hand had done. But though they minded not what they had done, yet the righteous judge of all the World recor<g ref="char:EOLhyphen"/>ded what they had done, and brings up again their mercy into remembrance to their joy and comfort. Yea a Cup of cold Water given to one of his little ones in love to them becauſe they belong to him, ſhall not be forgotten. Then on the other hand, <hi>he ſhall ſay to them on his left hand, depart from me, ye curſed, into everlaſting Fire, prepared for the Devil and his Angels.</hi> And then he gives the reaſon of their ſentence; which is only a defect in mercy. <hi>For</hi> (ſaith he) <hi>I was an hungred, and ye gave me no meat; I was thirſty, and ye gave me no drink; I was a ſtranger, and ye took me not in; naked, and ye cloathed me not, ſick and in priſon, and ye
+<pb n="88" facs="tcp:172744:47"/> viſited me not.</hi> Then theſe ſhall plead for themſelves as the others did againſt them<g ref="char:EOLhyphen"/>ſelves, ſaying, <hi>Lord when ſaw we thee an hungred or a thirſt, or a ſtranger, or naked, or ſick, or in priſon, and did not Miniſter unto thee.</hi> Then ſhall he anſwer them ſaying, <hi>Verely I ſay unto you, in as much as ye did it not to one of the leaſt of theſe, ye did it not to me. And theſe ſhall go away into everlaſting puniſhment; but the righteous into life eternal.</hi> Here you ſee this Scripture doth not only hold forth a day of general judgment, but upon what grounds alſo the ſentence of judgment ſhall paſſe. And its worth your obſervation to take notice, that the ſen<g ref="char:EOLhyphen"/>tences run wholy upon <hi>Acts of mercy,</hi> and the want of mercy. It runs not upon this or that profeſſion, or united Society of men. It runs not thus, <hi>come ye bleſſed of my Father;</hi> for ye are Catholiques or Pa<g ref="char:EOLhyphen"/>piſts, and have been abſolved by your Prieſt: or ye are Proteſtants reformed in part from the ſuperſtition and Idolatry of the Papiſts: or ye, are of the Epiſcopal or Preſbyterian, or Independent, or Ana<g ref="char:EOLhyphen"/>baptiſt, or fifth Monarchy, or Quakers Society. <hi>But ye have been mercifull: ye have ſhown forth the nature of your Heavenly Fa<g ref="char:EOLhyphen"/>ther, who is love and mercy:</hi> and therefore now mercy is extended to you. For ſeeing God is love, ſurely he muſt needs have moſt reſpect to his own nature where it is found. As on the other hand he ſhall have judgment without mercy, that hath ſhewed
+<pb n="89" facs="tcp:172744:47"/> no mercy. Oh therefore liſt up your heads, you tender hearted humble mercifull men, <hi>in hope of a righteous day of judgment to come:</hi> and faint not in doing good, or in your pa<g ref="char:EOLhyphen"/>tient waiting for the comming of the Lord, though you be under affliction and tribula<g ref="char:EOLhyphen"/>tion in the World. For the day will come that will make amends for all, and ſatisfy you to the full: So that your labour of love, in what kinde ſoever, ſhall not be in vain, or forgotten of the Lord. Divers other Scriptures do confirm the general reſurre<g ref="char:EOLhyphen"/>ction of the dead and Eternal judgment; which were principles in the Doctrine of Chriſt, and not to be confounded with the firſt Spiritual reſurrection out of the Grave of ſin; or with the particular ſecret judg<g ref="char:EOLhyphen"/>ment of God inwardly in a mans Spirit: For theſe are before death natural, the other come after. Theſe firſt are to prepare for that which is to come after, that we may in hope look for that day that is to come. We are raiſed up here out of the death of ſin, that we may riſe with comfort hereaf<g ref="char:EOLhyphen"/>ter: We are judged of the Lord here that we may not be condemned with the World: and we are made to judge our ſelves here, that we may not be judged. Bleſſed and ho<g ref="char:EOLhyphen"/>ly is he that hath part in the firſt reſurre<g ref="char:EOLhyphen"/>ction, on him the ſecond death hath no power. So that Hope having ſo ſure a foun<g ref="char:EOLhyphen"/>dation, it is as an Anchor ſure and ſtedfaſt: And tends greatly to an eſſential Chriſtian life: to bear us up therein, in holding on
+<pb n="90" facs="tcp:172744:48"/> in patience doing the will of God, and de<g ref="char:EOLhyphen"/>nying the pleaſurable and eaſie paths of un<g ref="char:EOLhyphen"/>righteouſneſs. This Hope of an eternal in<g ref="char:EOLhyphen"/>heritance, makes us not aſhamed to bear reproach for Chriſts ſake, and for obſerv<g ref="char:EOLhyphen"/>ing his commands, though we be accoun<g ref="char:EOLhyphen"/>ted as the of-ſcouring or refuſe of all things for ſo doing. So that Hope is as a Helmet upon our heads to bear us up under all the vilifyings of the World. I know it is a com<g ref="char:EOLhyphen"/>mon thing with many, if not with moſt, to ſay, <hi>I hope to be ſaved, and I hope God will be mercyfull.</hi> Yea and they will ſwear by their hope too, ſaying, <hi>as I hope to be ſaved.</hi> Well, I would not daſh thy hope in Gods mercy, but rather ſtrengthen it; and help to raiſe it up higher. But take heed how thou expoſes thy hope and thy ſelf there<g ref="char:EOLhyphen"/>with to judgment, in breaking the com<g ref="char:EOLhyphen"/>mand of the great judge, who is to judge the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and all the World, who hath ſaid, <hi>Swear not at all, neither by Heaven, nor by Earth, nor by any other Oath.</hi> Certainly if men ſhall give an account in the day of judg<g ref="char:EOLhyphen"/>ment, of every idle word, (as the true judge hath told us they ſhall, <hi>Matt.</hi> 12.36.) then ſurely forbidden Oaths muſt be given account of: therefore put away ſuch things, as are threatened with judgment. And to raiſe up thy hope into ſtrength, and infalli<g ref="char:EOLhyphen"/>bility, that it may be a comfortable ſtay to thee conſider what it is, that it is grounded upon, and how it will operate in thee, if it be right, and ſee that the right founda<g ref="char:EOLhyphen"/>tion
+<pb n="91" facs="tcp:172744:48"/> be layd. Conſult with the ſayings of thoſe who have had this lively hope in them: and ſee how their's was grounded: and what they teſtify of it. I ſhall lay this one Scripture before thee to conſider on, and to ſet before thee as a marke, to preſſe after. 1 <hi>Joh.</hi> 3. the three firſt verſes. <hi>Be<g ref="char:EOLhyphen"/>hold what manner of love the Father hath be<g ref="char:EOLhyphen"/>ſtowed on us, that we ſhould be called the Sons of God: therefore the World knoweth us not, becauſe in knew not him. Beloved, now are we the Sons of God, and it doth not yet ap<g ref="char:EOLhyphen"/>pear what we ſhall be: but we know, that when he ſhall appear, we ſhall be like him: for we ſhall ſee him as he is. And every man that hath this hope in him, purifyeth himſelf, even as he is pure.</hi> Wouldſt thou have thy hope raiſed up to this pitch, to expect to be made like the Son of God at his appear<g ref="char:EOLhyphen"/>ing by beholding of him or ſeeing him as he is? Then thou muſt purify thy ſelf from all uncleanneſs of Fleſh and Spirit, for he is pure and piercing. If the Sun ſhine upon a dull thick Earthy body, it doth not fill that with its beautifull light: but if it ſhine upon a pure tranſparent Gem, in fills that with its one glorious light. Therefore there muſt be a purifying and cleanſing going before, to prepare us to be made partakers of the glory of the Lord. Every one that hath this hope in him, purifyeth himſelf, as he is pure. Now there be two things requiſite in this purification; namely, <hi>Faith in Chriſt: and an obedient life. Purifying their Hearts by
+<pb n="92" facs="tcp:172744:49" rendition="simple:additions"/> Faith,</hi> ſaith the Scripture: and again, <hi>If I waſh thee not thou haſt no part in mee:</hi> thus he purifyeth the conſcience from dead works, by his Spirit, working faith in us, in his blood: and by the ſame Spirit leading us in an obedient converſation. And as many as are led of the Spirit of God they are the Sons of God. And the ſame Spirit that leads the Sons of God, the ſame witneſſes in them, that they are ſo: And ſo giveth a moſt firm ground of Hope: <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>: So that we may ſay with the beloved Apoſtle, <hi>now are we the Sons of God, but it doth not yet appear what we ſhall be: but we know, that when he ſhall appear, we ſhall be like him: for we ſhall ſee him as he is.</hi> Oh Brethren! How can one think of theſe things, and give himſelf up to a looſe wicked life and converſation! Nay, this hope tends greatly to the eſſen<g ref="char:EOLhyphen"/>tial life of a Chriſtian: and to preſerve him therein from turning back again into the polluted wayes of the World.</p>
+               <p>As for Forms wherein, ſince the Apoſta<g ref="char:EOLhyphen"/>cy, men profeſſe the ſame Chriſt, there may be ſomething eſſential alſo to a Chri<g ref="char:EOLhyphen"/>ſtian life: But not as they are ſuch or ſuch a form; but as the Lord ſhall require, or lead men by his Spirit, and exerciſe their Spirits, for the tryal of them, whether they will follow him whitherſoever he leads, either into them, or out of the n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bearing the reproach of the World, and
+<pb n="93" facs="tcp:172744:49"/> ſhewing their obedience in anſwering that meaſure of light wherewith he doth illu<g ref="char:EOLhyphen"/>minate them, and in which he goes before them by the movings of his good Spirit in them. But herein is danger, namely, in urging men by the force of reaſon, before the Lord lead them: for men may lay that burden upon the Spirits of others, which the Lord doth not lay: and this work makes only Proſelytes and Hypocrites. Its ſafe to minde what Chriſt Jeſus our Lord layes upon our Spirits, and not what men lay. <hi>I will put upon you no other burden; but that which ye have already hold faſt till I come;</hi> ſaith Chriſt to ſome in the Church of <hi>Thya<g ref="char:EOLhyphen"/>tyra. Rev.</hi> 2.24, 25. But there were ſome that would have layd upon them other bur<g ref="char:EOLhyphen"/>dens, who undervalued the ſimple and ho<g ref="char:EOLhyphen"/>neſt hearted, and counted them weak, and dark, not knowing the depths of Satan, as they uſed to ſpeak in their vaunting over them. But the Lord encouraged them to keep to the burden which he alone layd upon them. Again there is another danger in thoſe that are urged before the Lord go before them to lead them: (I ſpeak in point of Form, and outward obſervations) namely, to be puffed up and exalted in themſelves from their form, and ſo to over<g ref="char:EOLhyphen"/>look the righteous life in others. And then they fall into the number of thoſe, who be<g ref="char:EOLhyphen"/>ing exalted in their form, ſay in their Hearts, <hi>ſtand by thy ſelf come not near to me for I am holyer then thou.</hi> And this now pro<g ref="char:EOLhyphen"/>vokes
+<pb n="94" facs="tcp:172744:50"/> the Lord to wrath; and he will rather look to him that is of a humble and contrite Spirit, ſtanding in awe of him, then to ſuch. Its good for both theſe to minde whats ſaid, <hi>Iſa.</hi> 66.5. <hi>Hear the word of the Lord, ye that tremble at his word; your Brethren that hated you, that cast you out for my names ſake ſaid, let the Lord be glorifyed: but he ſhall appear to your joy, and they ſhall be aſha<g ref="char:EOLhyphen"/>med.</hi> This is encouragement to thoſe hum<g ref="char:EOLhyphen"/>ble ones, whoſe Hearts ſtand in awe before the Lord, not willing to be lead of any, againſt the leadings of the Lord: or to ſub<g ref="char:EOLhyphen"/>ject themſelves to that which is contrary to the teachings of the Lord in them; though they be therefore deſpiſed, and caſt out by their Brethren. And it may alſo be a cau<g ref="char:EOLhyphen"/>tion unto others to teach them to take heed how they hate, and caſt out of their eſteem, the poor and humble in Spirit, upon the account of any outward formality. <hi>For what haſt thou to doe to judge thy Brother, or to ſet at nought thy Brother, for any out<g ref="char:EOLhyphen"/>ward obſervation, or formality?</hi> Whereas thou canſt not tell whether Chriſt our Lord doth lay it upon him or not. <hi>Behold we ſhall all ſtand before the judgment ſeat of Chriſt.</hi> One man keeps a day to the Lord, another keeps not a day: two contrary things. Canſt thou believe that theſe two contrary things, may both be done in obedience to the Lord, at his requirings? Surely they may, or elſe I judge that <hi>Paul</hi> would no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have defended them both againſt eac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="95" facs="tcp:172744:50" rendition="simple:additions"/> other, and have judged nothing but their judging of one another in ſuch caſe. There<g ref="char:EOLhyphen"/>fore Men and Brethren, whoſoever loveth our Lord Jeſus Chriſt, and his Govern<g ref="char:EOLhyphen"/>ment, lay aſide all emulation and wrath, and diſeſteem of one another for ſuch things; and learn to love one another though you be not of the ſame ſtature one with an<g ref="char:EOLhyphen"/>other: even as Chriſt hath loved us, and doth love us, and feed us in ſeveral pa<g ref="char:EOLhyphen"/>ſtures. And learn what this means, <hi>in my Fathers Houſe are many manſions, or dwell<g ref="char:EOLhyphen"/>ings,</hi> that ſo you may not deſpiſe one an<g ref="char:EOLhyphen"/>other.</p>
+            </div>
+            <div type="appendix">
+               <head>An Appendix concerning Faith.</head>
+               <p>BEcauſe Faith is ſo Eſſential to a Chri<g ref="char:EOLhyphen"/>ſtian, and comprehends, (as I may ſay) the very ſubſtance of the Goſpel, in ſo much that all Chriſtianity is ſometimes expreſſed under that very word of Faith, as <hi>Gal.</hi> 1.23. <hi>Rom.</hi> 1.5. <hi>&amp;c.</hi> Therefore it is here a little further inſiſted upon, partly by way of recapitulation, holding forth.</p>
+               <p n="1">1. <hi>The foundation of Faith layd, out of us, in the love and mercy, and Truth of God: and in the ſufferings and reſurrection of Chriſt.</hi>
+               </p>
+               <p n="2">2. <hi>The Work and Fruits of it in us, by the Spirit.</hi>
+               </p>
+               <p>
+                  <hi>Firſt.</hi> The foundation and ground of Faith; that muſt of neceſſity be ſomething not out of us, which is to be believed. Therefore that thing is the material thing
+<pb n="96" facs="tcp:172744:51" rendition="simple:additions"/> to be publiſhed or preached among men, for the begetting of Faith. For the under<g ref="char:EOLhyphen"/>ſtanding muſt be opened to underſtand it before one can believe it. Therefore <hi>Philip</hi> opened the underſtanding of the <hi>Eunuch</hi> in the Scriptures concerning Chriſt: and then he believed: And Chriſt, he opened the underſtandings of the two Diſciples, that were going to <hi>Emaus,</hi> when their Faith was ſhaken concerning him, that they might underſtand the Scriptures. And ſo the Apo<g ref="char:EOLhyphen"/>ſtles when they preached the Goſpel of Sal<g ref="char:EOLhyphen"/>vation, ſtill they opened the things to be believed, by the Scriptures, that ſo thoſe whoſe Heart God was pleaſed to open, might ſee what a ſure ground there was layd in God, and in Chriſt for men to be<g ref="char:EOLhyphen"/>lieve on him. For our Salvation or our life is hide with Chriſt in God. The foundation of all is in God; in his kindneſs, in his love in his mercy. And therefore all glory re<g ref="char:EOLhyphen"/>dounding from thence aſcends unto God. This is that which makes us truely to glori<g ref="char:EOLhyphen"/>fy God in our Hearts and Spirits, when we ſee him the foundation of all, the beginner and finiſher of all. That takes a man off his Phariſaical exaltation in himſelf ariſing from his own righteouſneſs. Oh how hum<g ref="char:EOLhyphen"/>bly did the Apoſtles of our Lord, give all glory and honour, unto the kindneſs, and mercies, and love of God, manifeſted to us in Chriſt Jeſus. In all their Epiſtles to the Saints raiſing up their mindes to the great love of God in chriſt Jeſus. For he
+<pb n="97" facs="tcp:172744:51"/> was the Veſſel filled with the love of God, to convey it to us. And this was the glory which his Diſciples beheld in him. <hi>We beheld his glory, full of grace and truth. Joh.</hi> 1. Grace is good will, kindneſs, love, mercy; this is Goſpel; this is the glad tydings, which came by Jeſus Chriſt. <hi>The Law came by</hi> Moſes, <hi>but grace and Truth by Jeſus Chriſt.</hi> This love of God revealed in us by his Spirit, is the Rock of ages: and while we live and walk in that we live in God, for God is love. This was <hi>Iſraels</hi> Rock while they continued in his love, and he lead him, and inſtructed him, and kept him as the Apple of his Eye, until he waxed fat and kicked, and lightly eſteemed the Rock of his Salvation: as <hi>Moſes</hi> ſets forth in his Song, <hi>Deut.</hi> 32. And <hi>Hannah</hi> in her Song. 1 <hi>Sam.</hi> 2. And <hi>David</hi> in his Song. 2 <hi>Sam.</hi> 2. likewiſe <hi>Pſal.</hi> 62. ſaith he, <hi>truely my Soul waiteth upon God: from him cometh my Salvation. He only is my Rock and my Sal<g ref="char:EOLhyphen"/>vation,</hi> ſeveral times doth he repeat thoſe words in that ſhort Pſalm, and then ſaith, <hi>ver.</hi> 8. <hi>Truſt in him at all times ye People, pour out your Heart before him: God is a re<g ref="char:EOLhyphen"/>fuge for us.</hi> Selah. <hi>Surely men of low degree are vanity, and men of high degree are a lye,</hi> ſo neither of them are to be truſted to: though a man be exalted as high as Hea<g ref="char:EOLhyphen"/>ven, above all called Gods, or above all Earthly powers, yet he is but a lye and not to be truſted to. Therefore to be built upon a man, is but to be built upon a lye. But to
+<pb n="98" facs="tcp:172744:52"/> be built upon the Revelation of the love of God in Chriſt Jeſus; there's the Rock. That was the Rock, that Chriſt would build his Church upon. <hi>
+                     <g ref="char:V">Ʋ</g>pon this Rock will I build my Church,</hi> ſaith he to <hi>Peter.</hi> What was that? upon <hi>Peter?</hi> No, he was <hi>Pe<g ref="char:EOLhyphen"/>trus</hi> ſo named from the Fathers revealing of his Son to him, which was <hi>Petra,</hi> the Rock upon which <hi>Peter</hi> himſelf was built, and the Church in all ages. <hi>Matt.</hi> 16.16, 17, 18, 19. And in that Revelation of the Son of God by the Father, and in his power and preſence, there ſtands the power of bin<g ref="char:EOLhyphen"/>ding and looſing: which alſo was given to any two or three of the Church as well as to <hi>Peter. Mat.</hi> 18.18, 19, 20. by vertue of the preſence of him with them, who is truth and is no lye. For thats given as the reaſon both of that power of binding and looſing tranſgreſſions, and alſo of that power and prevalency of the prayers of two or three concurring with one accord to aſk any thing of God. Why? <hi>For</hi> (ſaith he) <hi>where two or three are gathered together (eis to onoma emon) into my name, there am I in the midſt of them. ver.</hi> 20. Here is the infal<g ref="char:EOLhyphen"/>lible Rock and foundation: not <hi>Peter</hi> as a man; and therefore leſt any ſhould take him to be the infallible foundation, the Lord ſuffered him to ſlide ſometimes, more then we read of the other Apoſtles, in ſo much that he called him Satan, ſaying to him quickly after he had called him <hi>Peter,</hi> or a Rock or a Stone, <hi>get thee behinde me Sa<g ref="char:EOLhyphen"/>tan:</hi>
+                  <pb n="99" facs="tcp:172744:52"/> we finde not that he ever ſaid ſuch a word to any of the reſt, except <hi>Judas</hi> whom he ſaid was a Devil, one of you is a Devil. Therefore <hi>Peter</hi> ſtanding in the Revelation of the Father, firm in that, or upon that Rock, he became as a ſecundary Rock layed upon the chief Corner-ſtone: and ſo did all the reſt of the Apoſtles, and Prophets. <hi>Eph.</hi> 2.20. But <hi>Peter</hi> ſtanding in the wiſ<g ref="char:EOLhyphen"/>dom of the Fleſh, out of that Revelation of the Father, he was an offence, and no better then Satan, and to be rejected and caſt behind the back: and ſo is every one that ſtands there, namely in the wiſdom of the Fleſh, in oppoſition to the work of God. <hi>Peter</hi> was no foundation for the Church to be built upon as he was a mutable man: but only as he ſtood in the infallible Counſel and Revelation of the Son of God: So he held forth the Rock to others, and was dignifyed with the name of the Rock. So likewiſe Chriſt will put his own name upon others that ſtand faithfull to him: as he writ to the Church of <hi>Philadelphia.</hi> Rev. 3.12. <hi>Him that overcometh will I make a Pillar in the Temple of my God, — and I will write upon him the name of my God, and the name of the City of my God: — and my new name.</hi> And ſo <hi>Peter</hi> was dignifyed with the name <hi>Petrus</hi> or <hi>Petros</hi> from <hi>Petra</hi> which was the true Rock in all ages: be<g ref="char:EOLhyphen"/>cauſe he profeſſed him from the revelation of the Father. <hi>Whom ſay ye that I am?</hi> (ſaith Chriſt) <hi>Thou art the Son of the living God,</hi>
+                  <pb n="100" facs="tcp:172744:53"/> (ſaith <hi>Peter.</hi>) Here was the Rock or foun<g ref="char:EOLhyphen"/>dation the Corner-ſtone. <hi>Petra.</hi> As all the Scriptures teſtify, and from hence he was called <hi>Petros,</hi> but in Satans work he was called Satan. Therefore the Spirit he ſtood in gives the denomination. So likewiſe con<g ref="char:EOLhyphen"/>cerning others, <hi>Herod</hi> in his crafty rave<g ref="char:EOLhyphen"/>nous Spirit was called a <hi>Fox.</hi> So if <hi>Peter,</hi> or the <hi>Pope</hi> pretending to be <hi>Peters</hi> Succeſ<g ref="char:EOLhyphen"/>ſor, ſhall ſtand in a deſtroying Spirit, doth not he deſerve the name of <hi>Apollyon</hi> which ſignifies a deſtroyer? And is not this name juſtly put upon the King of the deſtroying Locuſts, <hi>Rev.</hi> 9.11. I deſire thee, who<g ref="char:EOLhyphen"/>ſoever thou art, to weigh this well: <hi>Peter</hi> or whoever it is that ſtands in the Spirit of God, which reveales the Son of God, and are keept in that, God dignifies them with Honourable names, ſuch as none knowes but they which receive them. On the other hand thoſe that ſtand in another Spirit have names given accordingly. Therefore i'ts a ſottiſh and incongruous thing for men liv<g ref="char:EOLhyphen"/>ing in one Spirit, to challenge a name pro<g ref="char:EOLhyphen"/>per to the contrary. How fooliſh and im<g ref="char:EOLhyphen"/>pertinent is it for men that are as Locuſts and Scorpions carrying ſtings in their Tails wherewith to hurt men, who ariſe out of the ſmoke of the bottomleſs pit of mans wiſ<g ref="char:EOLhyphen"/>dom and imaginations, for them to chal<g ref="char:EOLhyphen"/>lenge the name of Chriſtians, a name pro<g ref="char:EOLhyphen"/>per to thoſe who ſtanding in the Revelation of God, and nature of Chriſt follow him as innocent Lambs. I'ts as diſcrepant, or con<g ref="char:EOLhyphen"/>trary,
+<pb n="101" facs="tcp:172744:53"/> as for a Wolf or Fox to challenge the name of a Lamb. So for the King of theſe Locuſts, theſe ſtinging Scorpions, for him to go under the name of Chriſts Vicar, and <hi>Peters</hi> Succeſſor, is as contrary as to call Fire, Water, or Water, Fire. I'ts to put light for darkneſs, and darkneſs for light. And thereunto belongs a woe. <hi>Iſa.</hi> 5.20. <hi>Woe unto them that call evil good, and good evil; that put darkneſs for light, and light for darkneſs; that put bitter for ſweet, and ſweet for bitter.</hi> I have inſiſted the more upon this, leſt men ſhould miſſe of their expe<g ref="char:EOLhyphen"/>ctation, and fall ſhort of the comfortable enjoyment of the Kingdom of God, in building upon the Sands and not upon the true Rock.</p>
+               <p>Another thing to be conſidered, and which was publiſhed by the Apoſtles to be<g ref="char:EOLhyphen"/>get faith, was the ſufferings and reſurre<g ref="char:EOLhyphen"/>ction of Chriſt. This alſo was done without us, we have no hand in it: And this alſo was from the love of God. <hi>God ſo loved the World that he gave his only begotten Son that whoſoever believeth in him ſhould not periſh but ſhould have eternal life.</hi> And what did God give him to do for us? One thing was to bear our ſins. <hi>He became ſin for us who knew no ſin, that we might be made the right<g ref="char:EOLhyphen"/>ouſneſs of God in him.</hi> 2 <hi>Cor.</hi> 5.21. that is, he bare our ſins in his own body, and ſuf<g ref="char:EOLhyphen"/>fered for them, that we by faith in him might be cloathed with Gods righteouſneſs: or with the love and mercy of God. For
+<pb n="102" facs="tcp:172744:54"/> thats it which being received by faith is cal<g ref="char:EOLhyphen"/>led Gods righteouſneſs.</p>
+               <p>Now tho the foundation for Faith be layd out of us, in the good will and love of God in Chriſt Jeſus, and in his ſufferings and reſurrection: yet the work of Faith, thats wrought in us by the Spirit of God, for its he that opens the Heart of man to be<g ref="char:EOLhyphen"/>lieve his love. Sin ſhuts up the Heart of man againſt the Lord, and is as it were a bolt againſt him. Therefore to take away that bolt, and to make way for the open<g ref="char:EOLhyphen"/>ing of the door, Chriſt ſuffered: <hi>He bare our ſins in his own body on the Tree, to make way for man to conceive the love of God in Christ;</hi> And thats not all: I'ts the entrance or the beginning of Faith, which he follows by the operation of his Spirit in us, waſhing our conſciences by the Blood of Chriſt: and ſo giving boldneſs through him to draw near to God, and to come to him as a Fa<g ref="char:EOLhyphen"/>ther, and thus by degrees the Lord makes his entrance into the Hearts of the Sons of men, that they may become the Sons of God: He living in them, and they living in him. For his love being received (which in very deed is Faith) he himſelf, who is love, is received, and here is begotten a Son to God. <hi>As many as receive him to them gives he power to become the Sons of God, even to them that believe on his name.</hi> For this is the end of our Faith, that God may dwell in us, and ſo renew his image again which through ſin hath been defaced. That man
+<pb n="103" facs="tcp:172744:54"/> that pretends faith in Chriſt, and yet lives in the nature or Spirit of the Devil, doing his works, his Faith is but like the Faith of his Father the Devil, whoſe works he doth. The Faith of the Sons and Daughters of God is ſhown by their Fruits: for they work the works of their Father. Every Tree is known by its Fruits. <hi>Now this is the great myſtery, hid for ſo many ages and generations which in due time God revealed by his Spirit to the Apoſtles of Christ: Namely Chriſt to be brought forth in us: and this is the hope of glory.</hi> And the preaching of the firſt principles of the Doctrine of Chriſt, is but to make way for this. Under the great Apo<g ref="char:EOLhyphen"/>ſtacy, wherein the Whoriſh Spirit hath raigned, the myſtery of the glorious Goſpel hath been vailed. And men have highly pretended Faith in Chriſt, and yet lived in the nature of the Devil, murdering and deſtroying one another, and deſpiſing one another, for a few outward obſervations and Ceremonies: Whereby it is manifeſt that the Faith of the Goſpel hath been vail<g ref="char:EOLhyphen"/>ed among them: The Sun hath been darke<g ref="char:EOLhyphen"/>ned in the Firmament through the Clouds of mens imaginations, and inventions and traditions, upon which they have put the weight of their Religion: and ſo wanting the nature of the true Faith they have per<g ref="char:EOLhyphen"/>ſecuted one another for theſe things. For they have been ignorant of their own ſtate: and taken themſelves to be Churches of Chriſt when they were but the outward
+<pb n="104" facs="tcp:172744:55"/> Court, which was left out unmeaſured and given to the Nations. When the Woman, the true Church, withdrew her ſelf into the Wilderneſs, the Lord in mercy left an outward Court open for the Gentiles, or Nations, to aſſemble in (for their aſſem<g ref="char:EOLhyphen"/>blings are in the outward Court.) And he left it unmeaſured, giving the Gentiles or Nations leave to uſe their own wiſdom in their wayes of aſſembling, and approach<g ref="char:EOLhyphen"/>ing towards his Holy Temple: But they miſtaking their own inſtitutions, for the true Ordinances and Inſtitutions of Chriſt, have in their blinde Zeal for them, perſe<g ref="char:EOLhyphen"/>cuted one another, and alſo trampled the Holy City under foot among them, becauſe ſhe could not walk with them in their hu<g ref="char:EOLhyphen"/>mane traditions, and mingled inventions: which indeed have borne ſome face of Chriſts Ordinances, but polluted through mens inventions; the Nations ſetting Gods poſt by mans poſt, as the Scripture ſpeaks. And hence in pretence for God, they have been deſtructive one to another, and all to the true worſhippers, and ſo are plainly diſcovered to be out of the true Goſpel Faith: which hath been obſcured among them: and they involved in darkneſs and ignorance. For had the Nations known their own ſtate, that they were but the outward Court left unmeaſured; then would they have known alſo, that the meaſures of others in their approaching to worſhip might be as good as their own; or at leaſt
+<pb n="105" facs="tcp:172744:55"/> wiſe, that it was left at liberty as well as their own. Or had the Nations known the power, and true nature of Faith; they would not have perſecuted and deſtroyed others for differing from them in profeſſion of Religion. But it is ſaid, <hi>when the Son of man comes ſhall he finde Faith on the Earth?</hi> Which implyes the great defect thereof, and the great Apoſtacy therefrom upon the Earth: As indeed is made manifeſt, by the lives and works of men. For if by Faith the Son of God were received, they would do the works of God: Yea they in whom Chriſt lives, they do the works of Chriſt. And bleſſed be God and Father of our Lord Jeſus Chriſt, that he is again reviving of the truth, and diſpelling the darkneſs: and begetting a People to himſelf, not only to know his Heavenly nature better, but alſo to live therein in their meaſure. And he will yet more and more diſcover the falſe Fruitleſs and deſtroying Faith, of Nominal and National Churches: who pretend Faith in Chriſt and Hope in Chriſt, and yet live in the nature and works of him, whom Chriſt doth caſt out, and whoſe works he comes to deſtroy: which kinde of believers or Profeſſors of Chriſtianity, cauſe the gloryous name of our Lord Jeſus Chriſt to be blaſphemed, that is, evil ſpo<g ref="char:EOLhyphen"/>ken of among them that own him not, as namely <hi>Turks</hi> and <hi>Jews,</hi> and other infi<g ref="char:EOLhyphen"/>dels. Therefore the Lord will bring down ſuch Hypocritical Faiths: And that ſhall
+<pb n="106" facs="tcp:172744:56"/> be the fall of <hi>Babylon</hi> the great. For what was the fall of the <hi>Jews?</hi> Was it not the diſcovery of their falſe and Hypocrical pro<g ref="char:EOLhyphen"/>feſſion of his name, leaving them therein as in a Snare, when he drew out from among them the upright and ſimple hearted who truely feared him, and believed in him. So the fall of <hi>Babylon,</hi> that is, of all falſe Faiths, which work the works of Sa<g ref="char:EOLhyphen"/>tan, and hold the ſeed of Chriſt in bond<g ref="char:EOLhyphen"/>age: their fall ſhall be the diſcovery of their Hypocriticall Faith: that ſhall be the fall thereof: and ſhe ſhall be diſcovered to be a habitation of Devils. Falſe Faiths that bring forth the works of the Devil, lying, deceit, murder, perſecution, pride, en<g ref="char:EOLhyphen"/>vy, hatred and ſuch like, ſuch Faiths are fit receptacles and habitations for the Devil to act his part under, and men living in his Spirit, and doing his works, are rightly ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led by his name, (as <hi>Peter</hi> was when he did ſo.) On the other hand, they that live in the Spirit of Chriſt Jeſus, in his innocent nature, following him, they are rightly called the Sons and Daughters of God. This was no ſtrange thing in the Apoſtles dayes, when their Faith was a living Faith, and gave them fellowſhip with God: though in our dayes, ſince the memory of many, ſome have been Pillored, and Stigmatized for blaſphemers, for profeſſing Sonſhip with God. Which ſhowes what groſſe igno<g ref="char:EOLhyphen"/>rance and darkneſs hath been over the Spi<g ref="char:EOLhyphen"/>rits of men, though highly profeſſing Faith
+<pb n="107" facs="tcp:172744:56"/> in Chriſt. For if they had known either the Scriptures or the power and Priviledges of a living Faith, they durſt not have done ſo. <hi>Now are we the Sons of God,</hi> ſaith <hi>John.</hi> And, <hi>as many as are led by the Spirit of God, they are the Sons of God,</hi> ſaith <hi>Paul:</hi> and ſuch having received the <hi>Spirit of Adoption,</hi> draw nigh to God in that Spirit, crying, <hi>Abba, Father;</hi> Yea the Apoſtle goes higher and is very bold in his expreſſing of the near relation of the Sons of God with him. <hi>If Children then Heirs, Heirs of God, and joynt-heirs with Chriſt, if we ſuffer with him, that we may be alſo glorifyed together. Rom.</hi> 8. True and living Faith, gives this Sonſhip. <hi>As many as received him, to them he gave power to become the Sons of God, even to them that believe on his name.</hi> So believing on his name is receiving Chriſt, and with him <hi>Sonſhip and Heir-ſhip.</hi> And then he be<g ref="char:EOLhyphen"/>ing received, and his Spirit leading us, we are thereby taught to walke as the Sons of God without rebuke in the World. And ſo the lives of the Servants of the Lord be<g ref="char:EOLhyphen"/>ing blameleſſe, are ar lights in the World: and preaches righteouſneſs to the World, and tend to the glory of God. <hi>Let your light ſo ſhine before men</hi> (ſaith Chriſt) <hi>that they may ſee your good works and glorify your Father which is in Heaven.</hi> To whom be glory and Honour for ever, for his unſearchable love, manifeſted to us in Chriſt Jeſus our Lord.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
